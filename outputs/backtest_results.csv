@@ -1,0 +1,1896 @@
+year,round,winner,loser,prob_winner,correct
+2010,R128,Jurgen Melzer,Dustin Brown,0.8583713685555211,1
+2010,R128,Victor Hanescu,Andrey Kuznetsov,0.634965397732845,1
+2010,R128,Ivan Dodig,Oscar Hernandez,0.7537796617700183,1
+2010,R128,Julian Reister,Rik De Voest,0.5565522449743809,1
+2010,R128,Tomas Berdych,Andrey Golubev,0.9119411545159428,1
+2010,R128,Sam Querrey,Sergiy Stakhovsky,0.5575729287040245,1
+2010,R64,Philipp Kohlschreiber,Teymuraz Gabashvili,0.8667241547727101,1
+2010,R64,Yen-Hsun Lu,Michal Przysiezny,0.5771422108332451,1
+2010,R64,Florian Mayer,Mardy Fish,0.2780878409411891,0
+2010,R32,Andy Murray,Gilles Simon,0.8168536765398479,1
+2010,R32,Sam Querrey,Xavier Malisse,0.635391733722757,1
+2010,R32,Jo-Wilfried Tsonga,Tobias Kamke,0.8651617519546918,1
+2010,R64,Novak Djokovic,Taylor Dent,0.8893314248864652,1
+2010,R64,Daniel Brands,Nikolay Davydenko,0.19511298880565228,0
+2010,R64,Victor Hanescu,Marsel Ilhan,0.613678972059842,1
+2010,R128,Viktor Troicki,Igor Kunitsyn,0.6679394335312765,1
+2010,R128,Feliciano Lopez,Jesse Levine,0.6985867292586262,1
+2010,R128,Ricardas Berankis,Carsten Ball,0.41520083657997,0
+2010,R128,Peter Luczak,Tommy Robredo,0.3365148582687158,0
+2010,R128,Arnaud Clement,Janko Tipsarevic,0.3463719475538332,0
+2010,R128,Ilija Bozoljac,Nicolas Massu,0.43074469119037406,0
+2010,R128,Roger Federer,Alejandro Falla,0.9653920466879267,1
+2010,R128,Michael Llodra,Jesse Witten,0.8258317844455679,1
+2010,R128,Teymuraz Gabashvili,Ramon Delgado,0.3816573247853889,0
+2010,R128,Philipp Kohlschreiber,Potito Starace,0.8239852305282303,1
+2010,R128,John Isner,Nicolas Mahut,0.4209768714549593,0
+2010,R128,Thiemo de Bakker,Santiago Giraldo,0.42182138439414496,0
+2010,R128,Paul-Henri Mathieu,Marc Gicquel,0.5359548551908105,1
+2010,R128,Florian Mayer,Marin Cilic,0.26588706527948514,0
+2010,R128,Lleyton Hewitt,Maximo Gonzalez,0.9001642856974862,1
+2010,R128,Evgeny Korolev,Eduardo Schwank,0.4297568594812412,0
+2010,R128,Karol Beck,Santiago Ventura,0.6834513318049882,1
+2010,R128,Gael Monfils,Leonardo Mayer,0.6793995130481926,1
+2010,R128,Albert Montanes,Paolo Lorenzi,0.6754549682329133,1
+2010,R128,Brendan Evans,Jesse Huta Galung,0.6285893725452782,1
+2010,R128,Taylor Dent,Juan Ignacio Chela,0.5633218825801589,1
+2010,R128,Novak Djokovic,Olivier Rochus,0.8693988436328249,1
+2010,R128,Nikolay Davydenko,Kevin Anderson,0.8515770952977877,1
+2010,R128,Jarkko Nieminen,Stefan Koubek,0.6545345986864871,1
+2010,R128,Illya Marchenko,Michael Berrer,0.5287894246524616,1
+2010,R128,Gilles Simon,Guillermo Alcaide,0.7870058720620917,1
+2010,R64,Lleyton Hewitt,Evgeny Korolev,0.9340696254903652,1
+2010,R64,Gael Monfils,Karol Beck,0.7470759490239403,1
+2010,R64,Albert Montanes,Brendan Evans,0.6347791532215361,1
+2010,R128,Xavier Malisse,Juan Carlos Ferrero,0.3427547228142255,0
+2010,R128,Jo-Wilfried Tsonga,Robert Kendrick,0.8659979392849273,1
+2010,R128,Alexandr Dolgopolov,Marco Chiudinelli,0.5751425558175745,1
+2010,R128,Tobias Kamke,Guillermo Garcia-Lopez,0.1916929513639301,0
+2010,R128,Andreas Seppi,Nicolas Almagro,0.353655730610725,0
+2010,R128,Julien Benneteau,Kristof Vliegen,0.7137802207169015,1
+2010,R128,Andreas Beck,Jamie Baker,0.8869741762061071,1
+2010,R128,Michael Russell,Pere Riba,0.43758836940916557,0
+2010,R128,Fabio Fognini,Fernando Verdasco,0.1265037649931014,0
+2010,R128,Andy Roddick,Rajeev Ram,0.9290071220313686,1
+2010,R128,Robin Haase,James Blake,0.177301309362237,0
+2010,R128,Lukasz Kubot,Blaz Kavcic,0.5131773699817472,1
+2010,R128,Philipp Petzschner,Stephane Robert,0.7350152731350047,1
+2010,R64,David Ferrer,Florent Serra,0.8360926155285598,1
+2010,R64,Jeremy Chardy,Lukas Lacko,0.5420092440908032,1
+2010,R64,Thomaz Bellucci,Martin Fischer,0.8121624969766772,1
+2010,R128,Mikhail Youzhny,Dudi Sela,0.719122261030524,1
+2010,R128,David Ferrer,Nicolas Kiefer,0.6874167091970349,1
+2010,R128,Florent Serra,Simon Greul,0.4801898167645476,0
+2010,R128,Jeremy Chardy,Daniel Gimeno-Traver,0.5931974394569135,1
+2010,R128,Lukas Lacko,Marcos Baghdatis,0.22925547335557156,0
+2010,R128,Thomaz Bellucci,Ricardo Mello,0.8035237976236153,1
+2010,R128,Martin Fischer,Go Soeda,0.3547361822536706,0
+2010,R128,Marcel Granollers,Fred Gil,0.586943681941729,1
+2010,R128,Robin Soderling,Robby Ginepri,0.8498456663212347,1
+2010,R128,Andy Murray,Jan Hajek,0.9329278718913753,1
+2010,R64,Andy Roddick,Michael Llodra,0.7875012229304675,1
+2010,R64,Fabio Fognini,Michael Russell,0.6202544065603379,1
+2010,R64,Julien Benneteau,Andreas Beck,0.5532603568598927,1
+2010,R64,Tobias Kamke,Andreas Seppi,0.33969998304976234,0
+2010,R64,Jo-Wilfried Tsonga,Alexandr Dolgopolov,0.7723531204216179,1
+2010,R64,Xavier Malisse,Julian Reister,0.7476944947481986,1
+2010,R16,Yen-Hsun Lu,Andy Roddick,0.04839361780673749,0
+2010,R32,Rafael Nadal,Philipp Petzschner,0.9015934797604869,1
+2010,R16,Robin Soderling,David Ferrer,0.5422760196306005,1
+2010,R16,Andy Murray,Sam Querrey,0.7445660778248039,1
+2010,R16,Jo-Wilfried Tsonga,Julien Benneteau,0.6670849182118165,1
+2010,QF,Tomas Berdych,Roger Federer,0.16452030238699308,0
+2010,R16,Rafael Nadal,Paul-Henri Mathieu,0.9432678394909173,1
+2010,R16,Roger Federer,Jurgen Melzer,0.9067254651127028,1
+2010,R16,Tomas Berdych,Daniel Brands,0.8782510510082565,1
+2010,R16,Novak Djokovic,Lleyton Hewitt,0.5283134645559735,1
+2010,F,Rafael Nadal,Tomas Berdych,0.7944116984286166,1
+2010,SF,Rafael Nadal,Andy Murray,0.6813729818444261,1
+2010,SF,Tomas Berdych,Novak Djokovic,0.4173782097197269,0
+2010,R64,Rafael Nadal,Robin Haase,0.976886402746851,1
+2010,R32,Daniel Brands,Victor Hanescu,0.3512715048842872,0
+2010,R32,Roger Federer,Arnaud Clement,0.9616211763461506,1
+2010,R32,Jurgen Melzer,Feliciano Lopez,0.591783140221607,1
+2010,R32,Tomas Berdych,Denis Istomin,0.7788662377328939,1
+2010,R32,Yen-Hsun Lu,Florian Mayer,0.3010308926393826,0
+2010,R32,Lleyton Hewitt,Gael Monfils,0.7489942650823831,1
+2010,R32,Novak Djokovic,Albert Montanes,0.8609040744781302,1
+2010,R32,Julien Benneteau,Fabio Fognini,0.7083625126948948,1
+2010,R32,Andy Roddick,Philipp Kohlschreiber,0.768176621206848,1
+2010,R32,Robin Soderling,Thomaz Bellucci,0.7713520362348247,1
+2010,R32,David Ferrer,Jeremy Chardy,0.8341320438237648,1
+2010,R32,Paul-Henri Mathieu,Thiemo de Bakker,0.562407104363076,1
+2010,R128,Rafael Nadal,Kei Nishikori,0.9662549096864991,1
+2010,R64,Roger Federer,Ilija Bozoljac,0.9803547927621575,1
+2010,R64,Arnaud Clement,Peter Luczak,0.5955564262250904,1
+2010,R64,Feliciano Lopez,Ricardas Berankis,0.7051491008063815,1
+2010,R64,Jurgen Melzer,Viktor Troicki,0.64956983434229,1
+2010,R64,Tomas Berdych,Benjamin Becker,0.7282576562562761,1
+2010,R64,Sam Querrey,Ivan Dodig,0.7660086251442105,1
+2010,R64,Andy Murray,Jarkko Nieminen,0.8913939427727608,1
+2010,R64,Robin Soderling,Marcel Granollers,0.8120518289519735,1
+2010,QF,Novak Djokovic,Yen-Hsun Lu,0.9332334792909409,1
+2010,QF,Andy Murray,Jo-Wilfried Tsonga,0.739423337885707,1
+2010,QF,Rafael Nadal,Robin Soderling,0.8019753298545009,1
+2010,R64,Paul-Henri Mathieu,Mikhail Youzhny,0.27616430412651066,0
+2010,R64,Thiemo de Bakker,John Isner,0.4817030805101673,0
+2010,R64,Philipp Petzschner,Lukasz Kubot,0.7982857768798317,1
+2010,R128,Marsel Ilhan,Marcos Daniel,0.6522599183137403,1
+2010,R128,Daniel Brands,Igor Andreev,0.3552066537067284,0
+2010,R128,Rainer Schuettler,Dmitry Tursunov,0.4159806907908666,0
+2010,R128,Benjamin Becker,Ryan Sweeting,0.783773913812182,1
+2010,R128,Michal Przysiezny,Ivan Ljubicic,0.156762247377602,0
+2010,R128,Mardy Fish,Bernard Tomic,0.7957683407078956,1
+2010,R64,Denis Istomin,Rainer Schuettler,0.5462250301514107,1
+2010,R128,Denis Istomin,Stan Wawrinka,0.3598319077417105,0
+2010,R128,Yen-Hsun Lu,Horacio Zeballos,0.40966405987186655,0
+2011,QF,Andy Murray,Feliciano Lopez,0.8356972569400026,1
+2011,QF,Jo-Wilfried Tsonga,Roger Federer,0.14429018134618948,0
+2011,R128,Stan Wawrinka,Potito Starace,0.7704869369421262,1
+2011,R128,Simone Bolelli,Martin Fischer,0.7441618464405046,1
+2011,R128,Rafael Nadal,Michael Russell,0.9794801390957604,1
+2011,R128,Guillermo Garcia-Lopez,Andrey Golubev,0.7616810151948236,1
+2011,R128,Gilles Muller,Tommy Haas,0.13328563252363745,0
+2011,R128,Ryan Sweeting,Pablo Andujar,0.560769842847033,1
+2011,R128,Rik De Voest,Ruben Ramirez Hidalgo,0.5461126614932094,1
+2011,R128,Grigor Dimitrov,Cedrik-Marcel Stebe,0.5703601579549311,1
+2011,R128,Jo-Wilfried Tsonga,Go Soeda,0.9045421322997632,1
+2011,R128,Fernando Gonzalez,Alexandr Dolgopolov,0.6852046814667209,1
+2011,R128,Mardy Fish,Marcel Granollers,0.7482908744986437,1
+2011,R128,Alex Bogomolov Jr.,Donald Young,0.6136602810173073,1
+2011,R128,Juan Ignacio Chela,Marinko Matosevic,0.647334354747348,1
+2011,R128,Fernando Verdasco,Radek Stepanek,0.5041067965415864,1
+2011,R128,Bernard Tomic,Nikolay Davydenko,0.3049073658253219,0
+2011,R128,Florian Mayer,Daniel Evans,0.9369106820109341,1
+2011,R128,Xavier Malisse,Mischa Zverev,0.7490455948635908,1
+2011,R128,Julien Benneteau,Ruben Bemelmans,0.7868000177589335,1
+2011,R128,Tomas Berdych,Filippo Volandri,0.9270650686793979,1
+2011,R128,Andy Murray,Daniel Gimeno-Traver,0.9594674683352935,1
+2011,R128,Tobias Kamke,Blaz Kavcic,0.6052251410786141,1
+2011,R128,Sergiy Stakhovsky,Daniel Cox,0.8104364531584047,1
+2011,R128,Gilles Simon,Edouard Roger-Vasselin,0.8456277821193249,1
+2011,R128,Ivan Ljubicic,Marin Cilic,0.35621076829855586,0
+2011,R128,Richard Gasquet,Santiago Giraldo,0.8227741738085085,1
+2011,R128,Dudi Sela,Fred Gil,0.5713940477309926,1
+2011,R128,Igor Kunitsyn,Igor Sijsling,0.6675770158420572,1
+2011,R128,Gael Monfils,Matthias Bachinger,0.9134568671187718,1
+2011,R128,Jurgen Melzer,Alejandro Falla,0.7835376985750692,1
+2011,R128,Dmitry Tursunov,Ernests Gulbis,0.7037693406764833,1
+2011,R128,Nicolas Almagro,Jarkko Nieminen,0.5403707535147434,1
+2011,R128,Denis Istomin,Philipp Kohlschreiber,0.20852082038475905,0
+2011,R128,Robin Haase,Pere Riba,0.6597604106525166,1
+2011,R128,Ivo Karlovic,Janko Tipsarevic,0.5183941742197811,1
+2011,R128,Rainer Schuettler,Thomaz Bellucci,0.39795721714843457,0
+2011,R128,Feliciano Lopez,Michael Berrer,0.7230611062138713,1
+2011,R128,Victor Hanescu,Jaroslav Pospisil,0.719322364440798,1
+2011,R128,Andy Roddick,Andreas Beck,0.8915966778190034,1
+2011,R128,David Ferrer,Benoit Paire,0.9044276755882235,1
+2011,R128,Ryan Harrison,Ivan Dodig,0.19750956463216346,0
+2011,R128,Karol Beck,Carlos Berlocq,0.48174052760299685,0
+2011,R64,Gilles Simon,Dudi Sela,0.7169182279883519,1
+2011,R64,Mardy Fish,Denis Istomin,0.7824578860733816,1
+2011,R64,Robin Haase,Fernando Verdasco,0.20478206453321854,0
+2011,R64,Alex Bogomolov Jr.,Juan Ignacio Chela,0.47555626999050093,0
+2011,R64,Tomas Berdych,Julien Benneteau,0.7575168748330013,1
+2011,R128,Robin Soderling,Philipp Petzschner,0.6745024657848848,1
+2011,R128,Lleyton Hewitt,Kei Nishikori,0.7636438439591736,1
+2011,R128,Igor Andreev,Teymuraz Gabashvili,0.5910189744329202,1
+2011,R128,Mikhail Youzhny,Juan Monaco,0.7434463826302165,1
+2011,R128,David Nalbandian,Julian Reister,0.9058763889024235,1
+2011,R128,Andreas Haider-Maurer,Florent Serra,0.49993121628990406,0
+2011,R128,Adrian Mannarino,Conor Niland,0.705058704263969,1
+2011,R128,Roger Federer,Mikhail Kukushkin,0.9684133339666986,1
+2011,R64,Nicolas Almagro,John Isner,0.6371094662101427,1
+2011,R64,Mikhail Youzhny,Somdev Devvarman,0.7096228232513376,1
+2011,R64,David Nalbandian,Andreas Haider-Maurer,0.8750338401331145,1
+2011,R64,Jo-Wilfried Tsonga,Grigor Dimitrov,0.8739738656720689,1
+2011,R64,Roger Federer,Adrian Mannarino,0.9631328154312951,1
+2011,R128,Lukasz Kubot,Arnaud Clement,0.39068295537646613,0
+2011,R128,Grega Zemlja,Lukas Lacko,0.5300196019804138,1
+2011,R128,Viktor Troicki,Maximo Gonzalez,0.8532977715281718,1
+2011,R64,Robin Soderling,Lleyton Hewitt,0.6038031112536048,1
+2011,R128,Yen-Hsun Lu,Tommy Robredo,0.344491246426337,0
+2011,R128,Ricardo Mello,Frank Dancevic,0.24876755520885796,0
+2011,R128,Michael Llodra,James Ward,0.6421443436218911,1
+2011,R128,Marcos Baghdatis,James Blake,0.5336692674607343,1
+2011,R128,Andreas Seppi,Albert Montanes,0.5794299495758928,1
+2011,R128,Kevin Anderson,Illya Marchenko,0.5812747641400456,1
+2011,R128,Novak Djokovic,Jeremy Chardy,0.9477239133159896,1
+2011,R64,Rafael Nadal,Ryan Sweeting,0.9683511004480222,1
+2011,R64,Gilles Muller,Milos Raonic,0.25065990113506137,0
+2011,R64,Juan Martin del Potro,Olivier Rochus,0.7706746408606742,1
+2011,R32,Tomas Berdych,Alex Bogomolov Jr.,0.8669975051363465,1
+2011,R32,Andy Murray,Ivan Ljubicic,0.8793656366950928,1
+2011,R32,Richard Gasquet,Simone Bolelli,0.8365779880664741,1
+2011,R32,Lukasz Kubot,Gael Monfils,0.14871315491981446,0
+2011,R32,Feliciano Lopez,Andy Roddick,0.23265923770457742,0
+2011,R64,Andy Murray,Tobias Kamke,0.9441546865042286,1
+2011,R128,John Isner,Nicolas Mahut,0.42745813422396706,0
+2011,R128,Somdev Devvarman,Denis Gremelmayr,0.6513160174894582,1
+2011,R64,Simone Bolelli,Stan Wawrinka,0.34850092013500217,0
+2011,R64,Gael Monfils,Grega Zemlja,0.8022772181397603,1
+2011,R64,Lukasz Kubot,Ivo Karlovic,0.1938775706904098,0
+2011,R64,Feliciano Lopez,Rainer Schuettler,0.7027339027229542,1
+2011,R64,Andy Roddick,Victor Hanescu,0.8836369423271883,1
+2011,R64,David Ferrer,Ryan Harrison,0.8926834703083284,1
+2011,R64,Karol Beck,Guillermo Garcia-Lopez,0.2681271599514321,0
+2011,R64,Fernando Gonzalez,Rik De Voest,0.8633598070790925,1
+2011,R16,Feliciano Lopez,Lukasz Kubot,0.77815490396196,1
+2011,R16,Jo-Wilfried Tsonga,David Ferrer,0.498961869868837,0
+2011,R16,Roger Federer,Mikhail Youzhny,0.9246358039806344,1
+2011,R16,Bernard Tomic,Xavier Malisse,0.2461006512791161,0
+2011,R16,Novak Djokovic,Michael Llodra,0.8370366959128264,1
+2011,R16,Rafael Nadal,Juan Martin del Potro,0.8195201470914273,1
+2011,R16,Mardy Fish,Tomas Berdych,0.43865424251274554,0
+2011,R16,Andy Murray,Richard Gasquet,0.6853444815933412,1
+2011,R64,Jurgen Melzer,Dmitry Tursunov,0.5344768199502251,1
+2011,R64,Yen-Hsun Lu,Viktor Troicki,0.23498391263035343,0
+2011,R64,Michael Llodra,Ricardo Mello,0.8959451699463014,1
+2011,R64,Marcos Baghdatis,Andreas Seppi,0.47140218580482385,0
+2011,R64,Novak Djokovic,Kevin Anderson,0.9315248376477492,1
+2011,R32,Rafael Nadal,Gilles Muller,0.9756435135796627,1
+2011,R32,Juan Martin del Potro,Gilles Simon,0.6830388302470201,1
+2011,R32,Mardy Fish,Robin Haase,0.8405639687127824,1
+2011,R32,Bernard Tomic,Robin Soderling,0.09737589305111384,0
+2011,R32,Roger Federer,David Nalbandian,0.8681925388449437,1
+2011,R64,Richard Gasquet,Igor Kunitsyn,0.8472896962728937,1
+2011,R64,Ivan Ljubicic,Sergiy Stakhovsky,0.5525309837124766,1
+2011,R32,David Ferrer,Karol Beck,0.8986333769472645,1
+2011,R32,Michael Llodra,Yen-Hsun Lu,0.7832404611813958,1
+2011,R32,Xavier Malisse,Jurgen Melzer,0.43558091654968645,0
+2011,R32,Novak Djokovic,Marcos Baghdatis,0.8907286039225728,1
+2011,SF,Rafael Nadal,Andy Murray,0.6489636344383916,1
+2011,R32,Mikhail Youzhny,Nicolas Almagro,0.6129797457882409,1
+2011,R128,Milos Raonic,Marc Gicquel,0.704446483704293,1
+2011,R128,Olivier Rochus,Kenny De Schepper,0.7274377925798379,1
+2011,R128,Juan Martin del Potro,Flavio Cipolla,0.9231789266870831,1
+2011,R32,Jo-Wilfried Tsonga,Fernando Gonzalez,0.6308865164696988,1
+2011,F,Novak Djokovic,Rafael Nadal,0.3927082700926968,0
+2011,SF,Novak Djokovic,Jo-Wilfried Tsonga,0.7574323513010772,1
+2011,QF,Rafael Nadal,Mardy Fish,0.8455375173760041,1
+2011,QF,Novak Djokovic,Bernard Tomic,0.9540350604672443,1
+2011,R64,Xavier Malisse,Florian Mayer,0.44620100640625576,0
+2011,R64,Bernard Tomic,Igor Andreev,0.4028678185187208,0
+2012,R128,Andy Roddick,Jamie Baker,0.927543251854237,1
+2012,R128,Bjorn Phau,Wayne Odesnik,0.28958650478067677,0
+2012,R128,Kenny De Schepper,Matthias Bachinger,0.3665373047784233,0
+2012,R128,David Ferrer,Dustin Brown,0.9587029588782848,1
+2012,R128,Janko Tipsarevic,David Nalbandian,0.4337149414297635,0
+2012,R128,Ryan Sweeting,Potito Starace,0.6632199046561206,1
+2012,R128,Inigo Cervantes,Flavio Cipolla,0.4961799842568448,0
+2012,R128,Benjamin Becker,James Blake,0.5136688737564391,1
+2012,R128,Mikhail Youzhny,Donald Young,0.8909541883321052,1
+2012,R64,Nicolas Almagro,Guillaume Rufin,0.7621891280746503,1
+2012,R128,Marin Cilic,Cedrik-Marcel Stebe,0.8584609314892566,1
+2012,R128,Juan Martin del Potro,Robin Haase,0.8814588612835322,1
+2012,R128,Radek Stepanek,Sergiy Stakhovsky,0.7047143712932042,1
+2012,R128,Go Soeda,Igor Kunitsyn,0.5110524392069138,1
+2012,R128,Nicolas Almagro,Olivier Rochus,0.6574773759177445,1
+2012,R128,Juan Monaco,Leonardo Mayer,0.5673462107161945,1
+2012,R128,Jeremy Chardy,Filippo Volandri,0.7019102749664574,1
+2012,R128,Rafael Nadal,Thomaz Bellucci,0.9493803234347239,1
+2012,R128,Lukas Rosol,Ivan Dodig,0.5680238199027198,1
+2012,R128,Malek Jaziri,Jurgen Zopp,0.41062158570685003,0
+2012,R128,Philipp Kohlschreiber,Tommy Haas,0.44052452332968534,0
+2012,R128,Alexandr Dolgopolov,Alex Bogomolov Jr.,0.5892231115217578,1
+2012,R128,Martin Klizan,Juan Ignacio Chela,0.41548675813592945,0
+2012,R128,Benoit Paire,Matthew Ebden,0.5992970351135011,1
+2012,R128,Brian Baker,Rui Machado,0.6939054109210083,1
+2012,R64,Marin Cilic,Lukasz Kubot,0.7676817914357753,1
+2012,R128,Mardy Fish,Ruben Ramirez Hidalgo,0.9490358741054858,1
+2012,R128,James Ward,Pablo Andujar,0.592866369250766,1
+2012,R128,Jesse Levine,Karol Beck,0.5131498425820212,1
+2012,R128,David Goffin,Bernard Tomic,0.32049883722049277,0
+2012,R64,Janko Tipsarevic,Ryan Sweeting,0.7971601568545101,1
+2012,R64,Mikhail Youzhny,Inigo Cervantes,0.8558536267891946,1
+2012,R64,Denis Istomin,Igor Andreev,0.6102221267205094,1
+2012,R64,Alejandro Falla,Nicolas Mahut,0.26925937478973383,0
+2012,R64,Xavier Malisse,Gilles Simon,0.4878536985747315,0
+2012,R64,Fernando Verdasco,Grega Zemlja,0.7906623763116811,1
+2012,R64,Julien Benneteau,Michael Russell,0.7326697811520394,1
+2012,R64,Roger Federer,Fabio Fognini,0.9499982938766193,1
+2012,R64,Jerzy Janowicz,Ernests Gulbis,0.5117146270747301,1
+2012,R64,Florian Mayer,Philipp Petzschner,0.49007130408402205,0
+2012,R64,Richard Gasquet,Ruben Bemelmans,0.899826035076749,1
+2012,R32,Mikhail Youzhny,Janko Tipsarevic,0.4997925338606195,0
+2012,R64,Juan Monaco,Jeremy Chardy,0.5490726918119135,1
+2012,R64,Viktor Troicki,Martin Klizan,0.7816406100167113,1
+2012,R64,Radek Stepanek,Benjamin Becker,0.6198952661367461,1
+2012,R64,Novak Djokovic,Ryan Harrison,0.9304692860436762,1
+2012,R64,Lukas Rosol,Rafael Nadal,0.06410359368334981,0
+2012,R64,Philipp Kohlschreiber,Malek Jaziri,0.9035727692767922,1
+2012,R64,Benoit Paire,Alexandr Dolgopolov,0.5919089133420309,1
+2012,R64,Brian Baker,Jarkko Nieminen,0.49374177729606045,0
+2012,R64,Mardy Fish,James Ward,0.8606610126072198,1
+2012,R64,David Goffin,Jesse Levine,0.5895182000293184,1
+2012,R64,Lukas Lacko,Jurgen Melzer,0.3158649862532398,0
+2012,R64,Jo-Wilfried Tsonga,Guillermo Garcia-Lopez,0.8562219225038905,1
+2012,R64,Andy Murray,Ivo Karlovic,0.8493986981102613,1
+2012,R64,Marcos Baghdatis,Grigor Dimitrov,0.4933298171536367,0
+2012,R64,Sam Querrey,Milos Raonic,0.456355448577139,0
+2012,R16,David Ferrer,Juan Martin del Potro,0.5466920983334012,1
+2012,R64,Juan Martin del Potro,Go Soeda,0.9110258015977343,1
+2012,R64,Kei Nishikori,Florent Serra,0.7837902997781107,1
+2012,R64,Andy Roddick,Bjorn Phau,0.9561730825178661,1
+2012,R64,David Ferrer,Kenny De Schepper,0.9587367112330724,1
+2012,R32,Richard Gasquet,Nicolas Almagro,0.6909080639035365,1
+2012,R32,Viktor Troicki,Juan Monaco,0.5795689603749817,1
+2012,R32,Novak Djokovic,Radek Stepanek,0.8935491505081053,1
+2012,R32,Philipp Kohlschreiber,Lukas Rosol,0.7141696793360858,1
+2012,R32,Brian Baker,Benoit Paire,0.3549104056002194,0
+2012,R32,Mardy Fish,David Goffin,0.8442312180221976,1
+2012,R32,Jo-Wilfried Tsonga,Lukas Lacko,0.8736985329089604,1
+2012,R32,Andy Murray,Marcos Baghdatis,0.868935622121564,1
+2012,R32,Marin Cilic,Sam Querrey,0.6457524208823688,1
+2012,R32,Juan Martin del Potro,Kei Nishikori,0.7609171348212241,1
+2012,R32,David Ferrer,Andy Roddick,0.5662301080320462,1
+2012,R32,Denis Istomin,Alejandro Falla,0.7259655017115277,1
+2012,R32,Xavier Malisse,Fernando Verdasco,0.3922186338659027,0
+2012,R32,Roger Federer,Julien Benneteau,0.9415663966964191,1
+2012,F,Roger Federer,Andy Murray,0.7006568399386244,1
+2012,R32,Florian Mayer,Jerzy Janowicz,0.7221265610027409,1
+2012,SF,Roger Federer,Novak Djokovic,0.5860239193816345,1
+2012,SF,Andy Murray,Jo-Wilfried Tsonga,0.6522057053919826,1
+2012,R16,Andy Murray,Marin Cilic,0.7235281817723553,1
+2012,R16,Mikhail Youzhny,Denis Istomin,0.6604757585686778,1
+2012,QF,Jo-Wilfried Tsonga,Philipp Kohlschreiber,0.6310369134296766,1
+2012,QF,Andy Murray,David Ferrer,0.6060830511149108,1
+2012,QF,Roger Federer,Mikhail Youzhny,0.8957629012182023,1
+2012,QF,Novak Djokovic,Florian Mayer,0.9091552711842941,1
+2012,R16,Philipp Kohlschreiber,Brian Baker,0.7932647443336361,1
+2012,R16,Jo-Wilfried Tsonga,Mardy Fish,0.587201959301986,1
+2012,R16,Novak Djokovic,Viktor Troicki,0.9225188291772132,1
+2012,R16,Florian Mayer,Richard Gasquet,0.2932911285504857,0
+2012,R16,Roger Federer,Xavier Malisse,0.9288547534077133,1
+2012,R128,Lukasz Kubot,Tatsuma Ito,0.6056141131467537,1
+2012,R128,Fernando Verdasco,Jimmy Wang,0.8278824605246881,1
+2012,R128,Jerzy Janowicz,Simone Bolelli,0.3462229491090851,0
+2012,R128,Ernests Gulbis,Tomas Berdych,0.08752361004043534,0
+2012,R128,Roger Federer,Albert Ramos-Vinolas,0.9707153338819622,1
+2012,R128,Xavier Malisse,Marinko Matosevic,0.6246419106400017,1
+2012,R128,Grega Zemlja,Josh Goodall,0.8370964889504661,1
+2012,R128,Florian Mayer,Dmitry Tursunov,0.5761798736902981,1
+2012,R128,Denis Istomin,Andreas Seppi,0.3807458517581456,0
+2012,R128,Fabio Fognini,Michael Llodra,0.3926356272091008,0
+2012,R128,Michael Russell,Adrian Menendez-Maceiras,0.5353279018736086,1
+2012,R128,Ryan Harrison,Yen-Hsun Lu,0.5098393148344906,1
+2012,R128,Julien Benneteau,Gilles Muller,0.5850851519392278,1
+2012,R128,Philipp Petzschner,Blaz Kavcic,0.8544621873467374,1
+2012,R128,Jurgen Melzer,Stan Wawrinka,0.4672904782400851,0
+2012,R128,Lukas Lacko,Adrian Ungur,0.6198035606765446,1
+2012,R128,Guillermo Garcia-Lopez,Edouard Roger-Vasselin,0.4633589192522511,0
+2012,R128,Jarkko Nieminen,Feliciano Lopez,0.27402497929157416,0
+2012,R128,Igor Andreev,Oliver Golding,0.7935137417750793,1
+2012,R128,Nicolas Mahut,Paolo Lorenzi,0.7336840831689777,1
+2012,R128,Alejandro Falla,John Isner,0.17258469689365935,0
+2012,R128,Viktor Troicki,Marcel Granollers,0.5533021132027031,1
+2012,R128,Jo-Wilfried Tsonga,Lleyton Hewitt,0.6757376092031804,1
+2012,R128,Andy Murray,Nikolay Davydenko,0.9095259390426368,1
+2012,R128,Ivo Karlovic,Dudi Sela,0.7416200930257744,1
+2012,R128,Gilles Simon,Paul-Henri Mathieu,0.6296618866100783,1
+2012,R128,Kei Nishikori,Mikhail Kukushkin,0.7279556096202876,1
+2012,R128,Florent Serra,Andrey Kuznetsov,0.5489960377337391,1
+2012,R128,Novak Djokovic,Juan Carlos Ferrero,0.8788422172026141,1
+2012,R128,Guillaume Rufin,Steve Darcis,0.2656764804335642,0
+2012,R128,Ruben Bemelmans,Carlos Berlocq,0.43188149517906177,0
+2012,R128,Richard Gasquet,Tobias Kamke,0.8909697862378646,1
+2012,R128,Marcos Baghdatis,Albert Montanes,0.6171737426835335,1
+2012,R128,Sam Querrey,Vasek Pospisil,0.8512305984551005,1
+2012,R128,Milos Raonic,Santiago Giraldo,0.7143576844370287,1
+2012,R128,Grigor Dimitrov,Kevin Anderson,0.47987508623912345,0
+2013,R128,Grigor Dimitrov,Simone Bolelli,0.6536052072450128,1
+2013,R128,Leonardo Mayer,Aljaz Bedene,0.4023754160545203,0
+2013,R128,Jan-Lennard Struff,Blaz Kavcic,0.4195946188376559,0
+2013,R128,Grega Zemlja,Michael Russell,0.6356220546959547,1
+2013,R128,Jesse Levine,Guido Pella,0.4994902280248286,0
+2013,R128,Radek Stepanek,Matt Reid,0.8181534576967738,1
+2013,R128,Jerzy Janowicz,Kyle Edmund,0.7413190989368653,1
+2013,R128,Guillaume Rufin,Marinko Matosevic,0.45372392724177774,0
+2013,R128,Nicolas Almagro,Jurgen Zopp,0.8451745392646094,1
+2013,R128,Go Soeda,Andreas Haider-Maurer,0.4973724799420116,0
+2013,R128,Lleyton Hewitt,Stan Wawrinka,0.4958178765595247,0
+2013,R128,Novak Djokovic,Florian Mayer,0.9020446621459297,1
+2013,R128,Jimmy Wang,Wayne Odesnik,0.5034320088550027,1
+2013,R128,Andy Murray,Benjamin Becker,0.93055718648052,1
+2013,R128,Lukasz Kubot,Igor Andreev,0.4643703460815324,0
+2013,R128,Nicolas Mahut,Jan Hajek,0.8156132304688977,1
+2013,R128,Tommy Robredo,Alex Bogomolov Jr.,0.6614902759948597,1
+2013,R128,Mikhail Youzhny,Robin Haase,0.8377371292636516,1
+2013,R128,Paul-Henri Mathieu,Ricardas Berankis,0.5042802555909405,1
+2013,R128,Vasek Pospisil,Marc Gicquel,0.46613695018977125,0
+2013,R128,Andrey Kuznetsov,Albert Montanes,0.30983958778508874,0
+2013,R128,Viktor Troicki,Janko Tipsarevic,0.34981992827823477,0
+2013,R128,Marin Cilic,Marcos Baghdatis,0.7734232830597986,1
+2013,R128,Kenny De Schepper,Paolo Lorenzi,0.3906462475484905,0
+2013,R128,Kei Nishikori,Matthew Ebden,0.7941086851909767,1
+2013,R128,Ivan Dodig,Philipp Kohlschreiber,0.3824277894365956,0
+2013,R128,Michael Llodra,Jarkko Nieminen,0.6568273543157039,1
+2013,R128,Andreas Seppi,Denis Istomin,0.602461322047385,1
+2013,R128,Ernests Gulbis,Edouard Roger-Vasselin,0.606982363923373,1
+2013,R128,Feliciano Lopez,Gilles Simon,0.5262257017315586,1
+2013,R128,Bobby Reynolds,Steve Johnson,0.43678863619556946,0
+2013,R128,Roger Federer,Victor Hanescu,0.9714513839076095,1
+2013,R128,Sergiy Stakhovsky,Rogerio Dutra Silva,0.6208120945243483,1
+2013,R128,Julian Reister,Lukas Rosol,0.2073215760360004,0
+2013,R128,Jurgen Melzer,Fabio Fognini,0.40858494315720206,0
+2013,R128,Steve Darcis,Rafael Nadal,0.05468312475227788,0
+2013,R128,Juan Martin del Potro,Albert Ramos-Vinolas,0.8818974188798194,1
+2013,R64,Richard Gasquet,Go Soeda,0.9137344393877731,1
+2013,R64,Tommy Haas,Jimmy Wang,0.9151613435899257,1
+2013,R64,Feliciano Lopez,Paul-Henri Mathieu,0.7909313645837951,1
+2013,R128,Jeremy Chardy,Ryan Harrison,0.5482559786926292,1
+2013,R128,Dustin Brown,Guillermo Garcia-Lopez,0.26236990061066146,0
+2013,R128,Adrian Mannarino,Pablo Andujar,0.6008526043580575,1
+2013,R128,John Isner,Evgeny Donskoy,0.7645303680504506,1
+2013,R64,Mikhail Youzhny,Vasek Pospisil,0.8924367469620227,1
+2013,R64,Viktor Troicki,Andrey Kuznetsov,0.7438188177159332,1
+2013,R128,Yen-Hsun Lu,James Ward,0.6650541854748526,1
+2013,R64,Juan Monaco,Rajeev Ram,0.6210633002665283,1
+2013,R64,Fernando Verdasco,Julien Benneteau,0.5218050347568258,1
+2013,R64,Ernests Gulbis,Jo-Wilfried Tsonga,0.1628759800353013,0
+2013,R64,Sergiy Stakhovsky,Roger Federer,0.028993635064744883,0
+2013,R64,Jurgen Melzer,Julian Reister,0.7470956679375601,1
+2013,R64,Jerzy Janowicz,Radek Stepanek,0.4030294350996089,0
+2013,R64,Nicolas Almagro,Guillaume Rufin,0.8198386660795168,1
+2013,R64,Dustin Brown,Lleyton Hewitt,0.11372026939278267,0
+2013,R64,Adrian Mannarino,John Isner,0.1894335526134799,0
+2013,R128,Rajeev Ram,Lukas Lacko,0.4823347658887841,0
+2013,R128,Juan Monaco,Bastian Knittel,0.6989697942351634,1
+2013,R128,Julien Benneteau,Tobias Kamke,0.6699565634258839,1
+2013,R128,Fernando Verdasco,Xavier Malisse,0.47466488146222996,0
+2013,R32,Novak Djokovic,Jeremy Chardy,0.9457580392732091,1
+2013,R32,Andy Murray,Tommy Robredo,0.9441588109335013,1
+2013,R64,Ivan Dodig,Denis Kudla,0.6403938580573075,1
+2013,R32,Kenny De Schepper,Juan Monaco,0.27363135311102327,0
+2013,R32,Fernando Verdasco,Ernests Gulbis,0.5554088625787384,1
+2013,R32,Jurgen Melzer,Sergiy Stakhovsky,0.6455063082325483,1
+2013,R32,Jerzy Janowicz,Nicolas Almagro,0.3629909665728216,0
+2013,R32,Adrian Mannarino,Dustin Brown,0.6008778525070211,1
+2013,R32,Lukasz Kubot,Benoit Paire,0.3280799214382998,0
+2013,R32,Juan Martin del Potro,Grega Zemlja,0.8827716644733106,1
+2013,R32,Andreas Seppi,Kei Nishikori,0.44040480557950673,0
+2013,R32,Ivan Dodig,Igor Sijsling,0.5836853774784959,1
+2013,R64,Jeremy Chardy,Jan-Lennard Struff,0.8019465817688974,1
+2013,R64,Novak Djokovic,Bobby Reynolds,0.9815450856694109,1
+2013,R128,Richard Gasquet,Marcel Granollers,0.8062110329110892,1
+2013,R128,Tommy Haas,Dmitry Tursunov,0.8099680381896616,1
+2013,SF,Andy Murray,Jerzy Janowicz,0.92981277880231,1
+2013,SF,Novak Djokovic,Juan Martin del Potro,0.729536496444543,1
+2013,QF,Jerzy Janowicz,Lukasz Kubot,0.6782395107829563,1
+2013,QF,Juan Martin del Potro,David Ferrer,0.5252184148332041,1
+2013,QF,Novak Djokovic,Tomas Berdych,0.7870724010050169,1
+2013,R16,Andy Murray,Mikhail Youzhny,0.8517633946263641,1
+2013,R16,Fernando Verdasco,Kenny De Schepper,0.8178797537680932,1
+2013,R16,Jerzy Janowicz,Jurgen Melzer,0.5224458063832386,1
+2013,R16,Lukasz Kubot,Adrian Mannarino,0.5401914625882889,1
+2013,R16,Juan Martin del Potro,Andreas Seppi,0.770581749695561,1
+2013,R16,David Ferrer,Ivan Dodig,0.7724742575312118,1
+2013,R64,Benoit Paire,Stephane Robert,0.7486718309968644,1
+2013,R128,Denis Kudla,James Duckworth,0.6880448779318145,1
+2013,R128,Igor Sijsling,Alex Kuznetsov,0.7910850402756505,1
+2013,R64,Andreas Seppi,Michael Llodra,0.5019104080780813,1
+2013,R64,Kei Nishikori,Leonardo Mayer,0.823404931981096,1
+2013,R128,Jo-Wilfried Tsonga,David Goffin,0.9476037798499515,1
+2013,R64,Igor Sijsling,Milos Raonic,0.4181502471599797,0
+2013,R64,Alexandr Dolgopolov,Santiago Giraldo,0.5632250201491457,1
+2013,R64,David Ferrer,Roberto Bautista Agut,0.8708453526225537,1
+2013,R64,Tomas Berdych,Daniel Brands,0.8408618468203246,1
+2013,R64,Kevin Anderson,Michal Przysiezny,0.8433224307703984,1
+2013,R64,Bernard Tomic,James Blake,0.5631845749066593,1
+2013,R32,Tomas Berdych,Kevin Anderson,0.7492904728069042,1
+2013,R32,David Ferrer,Alexandr Dolgopolov,0.8697611172086376,1
+2013,R32,Mikhail Youzhny,Viktor Troicki,0.7280354243437072,1
+2013,R32,Tommy Haas,Feliciano Lopez,0.6556082453852797,1
+2013,R32,Bernard Tomic,Richard Gasquet,0.2242441222383553,0
+2013,R16,Novak Djokovic,Tommy Haas,0.7751110142882124,1
+2013,R16,Tomas Berdych,Bernard Tomic,0.8032317552507776,1
+2013,QF,Andy Murray,Fernando Verdasco,0.9087765622907676,1
+2013,F,Andy Murray,Novak Djokovic,0.5004767808715368,1
+2013,R64,Grega Zemlja,Grigor Dimitrov,0.3082408818455735,0
+2013,R64,Juan Martin del Potro,Jesse Levine,0.9257002789267689,1
+2013,R64,Tommy Robredo,Nicolas Mahut,0.3755862345730788,0
+2013,R64,Andy Murray,Yen-Hsun Lu,0.947374294205818,1
+2013,R128,Milos Raonic,Carlos Berlocq,0.7668358706490758,1
+2013,R128,Alexandr Dolgopolov,Gastao Elias,0.6492954626723647,1
+2013,R128,Santiago Giraldo,Horacio Zeballos,0.6210868200741332,1
+2013,R128,James Blake,Thiemo de Bakker,0.5995175202787593,1
+2013,R128,Bernard Tomic,Sam Querrey,0.33439678110045123,0
+2013,R128,Kevin Anderson,Olivier Rochus,0.6690299422520056,1
+2013,R128,Michal Przysiezny,Philipp Petzschner,0.1784231256488978,0
+2013,R128,Daniel Brands,Daniel Gimeno-Traver,0.7027610856632848,1
+2013,R128,Tomas Berdych,Martin Klizan,0.8723883710305282,1
+2013,R128,David Ferrer,Martin Alund,0.9036238868569908,1
+2013,R128,Roberto Bautista Agut,Teymuraz Gabashvili,0.6763871174163548,1
+2013,R128,Stephane Robert,Alejandro Falla,0.3703356824158097,0
+2013,R128,Benoit Paire,Adrian Ungur,0.8344045179842858,1
+2014,R64,Gilles Simon,Robin Haase,0.6827706490701941,1
+2014,R64,Jimmy Wang,Mikhail Youzhny,0.15230677779194884,0
+2014,R64,Jo-Wilfried Tsonga,Sam Querrey,0.7175821967664456,1
+2014,R64,Sergiy Stakhovsky,Ernests Gulbis,0.31854176263133904,0
+2014,R64,Jeremy Chardy,Marinko Matosevic,0.5318154868651872,1
+2014,R64,Marin Cilic,Andreas Haider-Maurer,0.919151384003312,1
+2014,R128,Marcel Granollers,Nicolas Mahut,0.36814154530604537,0
+2014,R128,Santiago Giraldo,Daniel Gimeno-Traver,0.7272774877213004,1
+2014,R128,Blaz Rola,Pablo Andujar,0.5009091321783683,1
+2014,R128,Stan Wawrinka,Joao Sousa,0.7582863254552162,1
+2014,R128,Yen-Hsun Lu,Aleksandr Nedovyesov,0.8237221516387115,1
+2014,R128,Julian Reister,Michael Russell,0.3920189367397776,0
+2014,R128,Denis Istomin,Dmitry Tursunov,0.5591786024064906,1
+2014,R128,Feliciano Lopez,Yuichi Sugita,0.8752360878029033,1
+2014,R128,Ante Pavic,Alejandro Falla,0.22584685015452577,0
+2014,R64,Novak Djokovic,Radek Stepanek,0.9060838921897164,1
+2014,R32,Andy Murray,Roberto Bautista Agut,0.8091575592834532,1
+2014,R32,Kevin Anderson,Fabio Fognini,0.4829860161158263,0
+2014,R32,Grigor Dimitrov,Alexandr Dolgopolov,0.671542029346955,1
+2014,R32,Leonardo Mayer,Andrey Kuznetsov,0.6328225959391394,1
+2014,R32,Stan Wawrinka,Denis Istomin,0.6705028223229789,1
+2014,R32,Feliciano Lopez,John Isner,0.5389597016613943,1
+2014,R64,Tomas Berdych,Bernard Tomic,0.7702604805406138,1
+2014,R64,Andy Murray,Blaz Rola,0.9778367846531233,1
+2014,R128,Gilles Muller,Julien Benneteau,0.36133458957649445,0
+2014,R128,Roger Federer,Paolo Lorenzi,0.9792559906143152,1
+2014,R128,Milos Raonic,Matthew Ebden,0.8105788097113886,1
+2014,R128,Mikhail Youzhny,James Ward,0.8506938154676078,1
+2014,R128,Jack Sock,Pierre-Hugues Herbert,0.5663991653476573,1
+2014,R128,Lukasz Kubot,Jan-Lennard Struff,0.5177430248991508,1
+2014,R128,Dusan Lajovic,Guillermo Garcia-Lopez,0.29766158873131277,0
+2014,R64,Stan Wawrinka,Yen-Hsun Lu,0.7371116967615462,1
+2014,R16,Marin Cilic,Jeremy Chardy,0.7510364934686231,1
+2014,R16,Andy Murray,Kevin Anderson,0.8833035240519251,1
+2014,R16,Grigor Dimitrov,Leonardo Mayer,0.8516681227746119,1
+2014,R16,Stan Wawrinka,Feliciano Lopez,0.4758244990853282,0
+2014,R16,Roger Federer,Tommy Robredo,0.9301481547371434,1
+2014,R16,Milos Raonic,Kei Nishikori,0.3302369461632358,0
+2014,R64,Roger Federer,Gilles Muller,0.9582203780688361,1
+2014,R64,Milos Raonic,Jack Sock,0.6781226515070623,1
+2014,R128,Frank Dancevic,Ivo Karlovic,0.23222700798816784,0
+2014,R128,Mikhail Kukushkin,Dudi Sela,0.39828941427643116,0
+2014,R128,Lukas Rosol,Benoit Paire,0.5816898597780823,1
+2014,R128,Rafael Nadal,Martin Klizan,0.9102512736887146,1
+2014,R128,Sam Querrey,Bradley Klahn,0.8648669273088997,1
+2014,R128,Jo-Wilfried Tsonga,Jurgen Melzer,0.7459871229139339,1
+2014,R128,Ernests Gulbis,Jurgen Zopp,0.8498080011652315,1
+2014,R32,Marin Cilic,Tomas Berdych,0.47774087840235197,0
+2014,R32,Tommy Robredo,Jerzy Janowicz,0.48539130622288496,0
+2014,R32,Roger Federer,Santiago Giraldo,0.9554883704963641,1
+2014,R64,Leonardo Mayer,Marcos Baghdatis,0.3802260889231475,0
+2014,R64,Alexandr Dolgopolov,Benjamin Becker,0.5777619082040154,1
+2014,R64,Grigor Dimitrov,Luke Saville,0.9105520405649414,1
+2014,R64,Fabio Fognini,Tim Puetz,0.81939796978508,1
+2014,R64,Kevin Anderson,Edouard Roger-Vasselin,0.613869272688401,1
+2014,R64,Roberto Bautista Agut,Jan Hernych,0.7501804137753502,1
+2014,R64,Andrey Kuznetsov,David Ferrer,0.07079695863128603,0
+2014,R16,Novak Djokovic,Jo-Wilfried Tsonga,0.8347425083619497,1
+2014,R64,Kei Nishikori,Denis Kudla,0.867976246521826,1
+2014,R64,Nick Kyrgios,Richard Gasquet,0.13865833564388963,0
+2014,R64,Jiri Vesely,Gael Monfils,0.24416101626573472,0
+2014,R64,Mikhail Kukushkin,Frank Dancevic,0.4005931136112795,0
+2014,QF,Novak Djokovic,Marin Cilic,0.8399930832375224,1
+2014,R16,Nick Kyrgios,Rafael Nadal,0.037354089471125757,0
+2014,SF,Roger Federer,Milos Raonic,0.9063989546599934,1
+2014,F,Novak Djokovic,Roger Federer,0.5571687948773132,1
+2014,QF,Grigor Dimitrov,Andy Murray,0.2189511092453061,0
+2014,QF,Roger Federer,Stan Wawrinka,0.8474812218771824,1
+2014,QF,Milos Raonic,Nick Kyrgios,0.782289345526381,1
+2014,SF,Novak Djokovic,Grigor Dimitrov,0.8534801701566217,1
+2014,R64,Simone Bolelli,Philipp Kohlschreiber,0.25042420819691424,0
+2014,R64,Lukasz Kubot,Dusan Lajovic,0.5723335696531944,1
+2014,R64,Rafael Nadal,Lukas Rosol,0.9345334964258633,1
+2014,R32,Milos Raonic,Lukasz Kubot,0.7397644690969254,1
+2014,R32,Nick Kyrgios,Jiri Vesely,0.36902141995519533,0
+2014,R32,Kei Nishikori,Simone Bolelli,0.8067659761869336,1
+2014,R32,Novak Djokovic,Gilles Simon,0.938049787914884,1
+2014,R32,Jo-Wilfried Tsonga,Jimmy Wang,0.9086331563673905,1
+2014,R32,Jeremy Chardy,Sergiy Stakhovsky,0.5859683010188802,1
+2014,R32,Rafael Nadal,Mikhail Kukushkin,0.9739132863373285,1
+2014,R128,Andy Murray,David Goffin,0.9693482753416942,1
+2014,R128,Marin Cilic,Paul-Henri Mathieu,0.8405241477193928,1
+2014,R128,Andreas Haider-Maurer,Kyle Edmund,0.5655004248057048,1
+2014,R128,Bernard Tomic,Evgeny Donskoy,0.6935833339903309,1
+2014,R128,Marinko Matosevic,Fernando Verdasco,0.35291151776996377,0
+2014,R64,Denis Istomin,Julian Reister,0.8215043111822048,1
+2014,R64,Feliciano Lopez,Ante Pavic,0.9248871938058859,1
+2014,R64,John Isner,Jarkko Nieminen,0.7703296803122481,1
+2014,R64,Jerzy Janowicz,Lleyton Hewitt,0.372585951382148,0
+2014,R64,Tommy Robredo,Adrian Mannarino,0.6424388792334778,1
+2014,R64,Santiago Giraldo,Marcel Granollers,0.5031591321420548,1
+2014,R128,Jimmy Wang,Alejandro Gonzalez,0.5521894117983975,1
+2014,R128,Gael Monfils,Malek Jaziri,0.7986587730809447,1
+2014,R128,David Ferrer,Pablo Carreno Busta,0.902598934630979,1
+2014,R128,Sergiy Stakhovsky,Carlos Berlocq,0.5870202068266334,1
+2014,R128,Jeremy Chardy,Daniel Cox,0.8825452202163777,1
+2014,R128,Roberto Bautista Agut,Steve Johnson,0.8251819167627608,1
+2014,R128,Kevin Anderson,Aljaz Bedene,0.7939169570910651,1
+2014,R128,Edouard Roger-Vasselin,Filippo Volandri,0.8364705546861737,1
+2014,R128,Tim Puetz,Teymuraz Gabashvili,0.399949256751319,0
+2014,R128,Philipp Kohlschreiber,Igor Sijsling,0.8195849233421294,1
+2014,R128,Andrey Kuznetsov,Daniel Evans,0.3950637798222008,0
+2014,R128,Jiri Vesely,Victor Estrella Burgos,0.5815243199705551,1
+2014,R128,Marcos Baghdatis,Dustin Brown,0.5258811795905045,1
+2014,R128,Jan Hernych,Tobias Kamke,0.598599282453852,1
+2014,R128,Radek Stepanek,Pablo Cuevas,0.8009822810481947,1
+2014,R128,Jarkko Nieminen,Federico Delbonis,0.5950199296323337,1
+2014,R128,Nick Kyrgios,Stephane Robert,0.45794155931772706,0
+2014,R128,Richard Gasquet,James Duckworth,0.8715381540882682,1
+2014,R128,Kei Nishikori,Kenny De Schepper,0.8687334989725256,1
+2014,R128,Denis Kudla,Marsel Ilhan,0.6218100891792617,1
+2014,R128,Simone Bolelli,Tatsuma Ito,0.7011382615110024,1
+2014,R128,Luke Saville,Dominic Thiem,0.35696806871288334,0
+2014,R128,Tomas Berdych,Victor Hanescu,0.889327588007391,1
+2014,R128,Tommy Robredo,Lukas Lacko,0.6693942150218011,1
+2014,R128,Adrian Mannarino,Pere Riba,0.7634870976398724,1
+2014,R128,Lleyton Hewitt,Michal Przysiezny,0.8571636115897823,1
+2014,R128,Jerzy Janowicz,Somdev Devvarman,0.7654145349284815,1
+2014,R128,John Isner,Daniel Smethurst,0.8759493329217474,1
+2014,R128,Robin Haase,Vasek Pospisil,0.4754610242452938,0
+2014,R128,Gilles Simon,Konstantin Kravchuk,0.8115186236760422,1
+2014,R128,Benjamin Becker,Donald Young,0.7523207870332786,1
+2014,R128,Alexandr Dolgopolov,Sam Groth,0.8285634096898059,1
+2014,R128,Leonardo Mayer,Andreas Seppi,0.2754282700524835,0
+2014,R128,Grigor Dimitrov,Ryan Harrison,0.8471425031589381,1
+2014,R128,Novak Djokovic,Andrey Golubev,0.9830576864532384,1
+2014,R128,Fabio Fognini,Alex Kuznetsov,0.8281263177117909,1
+2015,R128,Juan Monaco,Florian Mayer,0.32880217557402913,0
+2015,R128,Pierre-Hugues Herbert,Hyeon Chung,0.38369218499910357,0
+2015,R128,Nick Kyrgios,Diego Schwartzman,0.829265080678732,1
+2015,R128,Richard Gasquet,Luke Saville,0.8505824187629912,1
+2015,R128,Kenny De Schepper,John-Patrick Smith,0.5886994635887485,1
+2015,R128,Steve Johnson,Lukas Lacko,0.676841954129235,1
+2015,R128,Adrian Mannarino,Michael Berrer,0.6687727586102306,1
+2015,R128,Gael Monfils,Pablo Carreno Busta,0.8769788895786987,1
+2015,R128,Marin Cilic,Hiroki Moriya,0.9048952242194073,1
+2015,R128,Kevin Anderson,Lucas Pouille,0.8676316701882987,1
+2015,R128,Marsel Ilhan,Jerzy Janowicz,0.17679580477225362,0
+2015,R128,Roger Federer,Damir Dzumhur,0.9669080567745268,1
+2015,R128,Sam Querrey,Igor Sijsling,0.8080939643060597,1
+2015,R128,James Ward,Luca Vanni,0.3712140029869589,0
+2015,R128,Milos Raonic,Daniel Gimeno-Traver,0.9093750774581175,1
+2015,R128,Tommy Haas,Dusan Lajovic,0.8423687050866087,1
+2015,R128,Marcel Granollers,Janko Tipsarevic,0.38355988821918047,0
+2015,R128,Benoit Paire,Mikhail Youzhny,0.27939969507110135,0
+2015,R128,Nikoloz Basilashvili,Facundo Bagnis,0.4229091178122794,0
+2015,R128,Feliciano Lopez,Steve Darcis,0.6631707069718676,1
+2015,R128,Gilles Simon,Nicolas Almagro,0.5972306138212183,1
+2015,R128,Blaz Kavcic,Yuichi Sugita,0.4117753876065866,0
+2015,R64,Vasek Pospisil,Fabio Fognini,0.3581691698593995,0
+2015,R64,James Ward,Jiri Vesely,0.30540912866719205,0
+2015,R64,Milos Raonic,Tommy Haas,0.5297536914284954,1
+2015,R64,Nick Kyrgios,Juan Monaco,0.684672976404648,1
+2015,R64,Richard Gasquet,Kenny De Schepper,0.8746521023150884,1
+2015,R64,Grigor Dimitrov,Steve Johnson,0.7669862996143133,1
+2015,R64,David Goffin,Liam Broady,0.7974685433143988,1
+2015,R128,Andy Murray,Mikhail Kukushkin,0.9659663930735154,1
+2015,R128,Robin Haase,Alejandro Falla,0.5487385758084667,1
+2015,R128,Borna Coric,Sergiy Stakhovsky,0.4896981832523951,0
+2015,R64,Denis Kudla,Alexander Zverev,0.3863883391689735,0
+2015,R64,John Isner,Matthew Ebden,0.8997042665199971,1
+2015,R64,Marin Cilic,Ricardas Berankis,0.9198741033909423,1
+2015,R64,Kevin Anderson,Marsel Ilhan,0.9030672235925227,1
+2015,R64,Leonardo Mayer,Marcel Granollers,0.6076893323731185,1
+2015,R32,Stan Wawrinka,Fernando Verdasco,0.6946892799334802,1
+2015,R32,Denis Kudla,Santiago Giraldo,0.42051677977620305,0
+2015,R64,Roger Federer,Sam Querrey,0.9115797073372376,1
+2015,R64,Sam Groth,James Duckworth,0.6352532047916521,1
+2015,R64,Roberto Bautista Agut,Benoit Paire,0.7980927416953665,1
+2015,R64,Nikoloz Basilashvili,Feliciano Lopez,0.13346082330661005,0
+2015,R64,Gilles Simon,Blaz Kavcic,0.8930994175669319,1
+2015,R128,James Duckworth,Malek Jaziri,0.5468982649460411,1
+2015,R128,Sam Groth,Jack Sock,0.316424865927597,0
+2015,R128,Roberto Bautista Agut,Ruben Bemelmans,0.8615291150179869,1
+2015,R64,Andy Murray,Robin Haase,0.9520397969530977,1
+2015,R64,Andreas Seppi,Borna Coric,0.6775421426925864,1
+2015,R64,Ivo Karlovic,Alexandr Dolgopolov,0.5112462110373994,1
+2015,R64,Jo-Wilfried Tsonga,Albert Ramos-Vinolas,0.8999416446603052,1
+2015,R64,Dustin Brown,Rafael Nadal,0.07206629952058423,0
+2015,R64,Viktor Troicki,Aljaz Bedene,0.8018678877361709,1
+2015,R16,Marin Cilic,Denis Kudla,0.8641035675810624,1
+2015,R16,Novak Djokovic,Kevin Anderson,0.8979071058805816,1
+2015,R32,Marin Cilic,John Isner,0.5606726923161232,1
+2015,R32,Kevin Anderson,Leonardo Mayer,0.7134289849410401,1
+2015,R32,Novak Djokovic,Bernard Tomic,0.9487846572249453,1
+2015,R32,Roger Federer,Sam Groth,0.9548528196122636,1
+2015,R32,Roberto Bautista Agut,Nikoloz Basilashvili,0.85327097795554,1
+2015,R64,Marcos Baghdatis,John Millman,0.7708171201212093,1
+2015,R64,Fernando Verdasco,Dominic Thiem,0.7157825957861379,1
+2015,R64,Stan Wawrinka,Victor Estrella Burgos,0.8763432434798551,1
+2015,R32,Ivo Karlovic,Jo-Wilfried Tsonga,0.2806344053067772,0
+2015,R32,Viktor Troicki,Dustin Brown,0.7906640655415095,1
+2015,R32,Vasek Pospisil,James Ward,0.7035414533323495,1
+2015,R32,Nick Kyrgios,Milos Raonic,0.382265845666337,0
+2015,R32,Richard Gasquet,Grigor Dimitrov,0.4576946783112951,0
+2015,R32,David Goffin,Marcos Baghdatis,0.4419802831613982,0
+2015,SF,Roger Federer,Andy Murray,0.5391067709444687,1
+2015,F,Novak Djokovic,Roger Federer,0.5875514805955985,1
+2015,R64,Pablo Andujar,Lukas Rosol,0.2998840206536291,0
+2015,R64,Gael Monfils,Adrian Mannarino,0.7677919034801172,1
+2015,SF,Novak Djokovic,Richard Gasquet,0.907315419486716,1
+2015,QF,Roger Federer,Gilles Simon,0.892740767011173,1
+2015,R64,Tomas Berdych,Nicolas Mahut,0.7394529893290371,1
+2015,R16,Andy Murray,Ivo Karlovic,0.9021046216504881,1
+2015,R16,Gilles Simon,Tomas Berdych,0.3359026917403288,0
+2015,R16,Roger Federer,Roberto Bautista Agut,0.9091287594041952,1
+2015,R32,Gilles Simon,Gael Monfils,0.4430275258335594,0
+2015,R16,Stan Wawrinka,David Goffin,0.7820159240355123,1
+2015,R32,Andy Murray,Andreas Seppi,0.8940966510706105,1
+2015,R16,Vasek Pospisil,Viktor Troicki,0.23996799566539503,0
+2015,R16,Richard Gasquet,Nick Kyrgios,0.5766074288567664,1
+2015,R32,Tomas Berdych,Pablo Andujar,0.9372659957996605,1
+2015,QF,Andy Murray,Vasek Pospisil,0.9573803411085414,1
+2015,QF,Novak Djokovic,Marin Cilic,0.8882240540264451,1
+2015,R128,Santiago Giraldo,Joao Souza,0.6201822064233623,1
+2015,R128,Alexander Zverev,Teymuraz Gabashvili,0.6112507132881387,1
+2015,R128,Denis Kudla,Pablo Cuevas,0.3917574327206335,0
+2015,R128,John Isner,Go Soeda,0.8772741813216266,1
+2015,R128,Matthew Ebden,Blaz Rola,0.4370227451467652,0
+2015,R128,Bernard Tomic,Jan-Lennard Struff,0.8291848217521668,1
+2015,R128,Dustin Brown,Yen-Hsun Lu,0.342192431924167,0
+2015,R128,Kei Nishikori,Simone Bolelli,0.764520590873492,1
+2015,QF,Richard Gasquet,Stan Wawrinka,0.4042680354348479,0
+2015,R64,Bernard Tomic,Pierre-Hugues Herbert,0.7695350531780313,1
+2015,R128,Novak Djokovic,Philipp Kohlschreiber,0.9255735626163224,1
+2015,R128,Ricardas Berankis,Andreas Haider-Maurer,0.4171162350385245,0
+2015,R128,Marcos Baghdatis,Donald Young,0.792330642562941,1
+2015,R128,Jarkko Nieminen,Lleyton Hewitt,0.26181079672854113,0
+2015,R128,Dominic Thiem,Dudi Sela,0.5326590504147733,1
+2015,R128,John Millman,Tommy Robredo,0.2245082733885934,0
+2015,R128,Jiri Vesely,Paolo Lorenzi,0.6917168983237805,1
+2015,R128,Vasek Pospisil,Vincent Millot,0.6743835459453614,1
+2015,R128,Fabio Fognini,Tim Smyczek,0.7100715398162186,1
+2015,R128,Viktor Troicki,Aleksandr Nedovyesov,0.8888325164114967,1
+2015,R128,Aljaz Bedene,Radek Stepanek,0.2351484466057419,0
+2015,R128,Liam Broady,Marinko Matosevic,0.3071097637044553,0
+2015,R128,David Goffin,Horacio Zeballos,0.7770985344020015,1
+2015,R128,Grigor Dimitrov,Federico Delbonis,0.8675596362463225,1
+2015,R128,Rafael Nadal,Thomaz Bellucci,0.9005404176857741,1
+2015,R128,Victor Estrella Burgos,Benjamin Becker,0.3488859067503336,0
+2015,R64,Novak Djokovic,Jarkko Nieminen,0.976903818259036,1
+2015,R128,Jo-Wilfried Tsonga,Gilles Muller,0.7441718970761402,1
+2015,R128,Andreas Seppi,Brydan Klein,0.8230400363753588,1
+2015,R128,Albert Ramos-Vinolas,Denis Istomin,0.2337533320072241,0
+2015,R128,Alexandr Dolgopolov,Kyle Edmund,0.9006095019554665,1
+2015,R128,Ivo Karlovic,Elias Ymer,0.78988401749276,1
+2015,R128,Fernando Verdasco,Martin Klizan,0.6668092706459787,1
+2015,R128,Nicolas Mahut,Filip Krajinovic,0.751788501975002,1
+2015,R128,Stan Wawrinka,Joao Sousa,0.8214759136957948,1
+2015,R128,Tomas Berdych,Jeremy Chardy,0.7844854628836768,1
+2015,R128,Lukas Rosol,Ernests Gulbis,0.4196531278508176,0
+2015,R128,Pablo Andujar,Guillermo Garcia-Lopez,0.2414549625539933,0
+2015,R128,Leonardo Mayer,Thanasi Kokkinakis,0.5995379908385209,1
+2016,QF,Roger Federer,Marin Cilic,0.8257032865728767,1
+2016,QF,Tomas Berdych,Lucas Pouille,0.8472414816705731,1
+2016,R128,Roger Federer,Guido Pella,0.9741731700748985,1
+2016,R128,Marcel Granollers,Victor Estrella Burgos,0.4949744995175471,0
+2016,R64,Alexander Zverev,Mikhail Youzhny,0.7287049086540074,1
+2016,R64,Tomas Berdych,Benjamin Becker,0.8182255490464226,1
+2016,R128,John Isner,Marcos Baghdatis,0.6252190231719728,1
+2016,R128,Matthew Barton,Albano Olivetti,0.6032190169572587,1
+2016,R128,Grigor Dimitrov,Bjorn Fratangelo,0.808256022957338,1
+2016,R128,Gilles Simon,Janko Tipsarevic,0.6571882747406327,1
+2016,R128,Novak Djokovic,James Ward,0.9918548345145171,1
+2016,R128,Jiri Vesely,Igor Sijsling,0.6313947968573753,1
+2016,R64,Pierre-Hugues Herbert,Damir Dzumhur,0.4543557752640333,0
+2016,R64,Nicolas Mahut,David Ferrer,0.41787805984149506,0
+2016,R128,Alexander Zverev,Paul-Henri Mathieu,0.7730288617275106,1
+2016,R128,Mikhail Youzhny,Horacio Zeballos,0.8045470618987104,1
+2016,R128,Nicolas Mahut,Brydan Klein,0.8682349632972134,1
+2016,R128,David Ferrer,Dudi Sela,0.7796989790963645,1
+2016,R128,Marcus Willis,Ricardas Berankis,0.5703465820143576,1
+2016,R128,Albert Ramos-Vinolas,Vasek Pospisil,0.5431554235939003,1
+2016,R128,Viktor Troicki,Tristan Lamasine,0.8008798944102404,1
+2016,R128,Jeremy Chardy,Gael Monfils,0.28895318618908095,0
+2016,R128,Steve Johnson,Malek Jaziri,0.7843754959573842,1
+2016,R128,Thomaz Bellucci,Ruben Bemelmans,0.5575794436455135,1
+2016,R128,Sam Querrey,Lukas Rosol,0.7022337006717071,1
+2016,R128,Daniel Evans,Jan-Lennard Struff,0.545149430338396,1
+2016,R128,Alexandr Dolgopolov,Evgeny Donskoy,0.7589191431450943,1
+2016,R128,Adrian Mannarino,Kyle Edmund,0.7135443586036613,1
+2016,R128,Dennis Novikov,Luke Saville,0.36878691186495705,0
+2016,R128,Joao Sousa,Dmitry Tursunov,0.46571053479292357,0
+2016,R128,Pierre-Hugues Herbert,Philipp Kohlschreiber,0.15799211346135197,0
+2016,R128,Damir Dzumhur,Denis Kudla,0.5646646135922769,1
+2016,R128,Milos Raonic,Pablo Carreno Busta,0.8953211303247878,1
+2016,R128,Andreas Seppi,Guillermo Garcia-Lopez,0.6887912093130495,1
+2016,R128,Lucas Pouille,Marius Copil,0.47151823597738807,0
+2016,R128,Donald Young,Leonardo Mayer,0.2664408270133476,0
+2016,R128,Juan Martin del Potro,Stephane Robert,0.895614602096774,1
+2016,R128,Stan Wawrinka,Taylor Fritz,0.8799692383473795,1
+2016,R128,Richard Gasquet,Aljaz Bedene,0.83030124376406,1
+2016,R64,Joao Sousa,Dennis Novikov,0.753880994864507,1
+2016,R16,Roger Federer,Steve Johnson,0.8921089205190688,1
+2016,R16,Marin Cilic,Kei Nishikori,0.3999036413747669,0
+2016,R64,Bernard Tomic,Radu Albot,0.7933815851085169,1
+2016,R128,Juan Monaco,Taro Daniel,0.7025844338258705,1
+2016,R128,Jo-Wilfried Tsonga,Inigo Cervantes,0.9066957672435412,1
+2016,R128,Marin Cilic,Brian Baker,0.8468159948108637,1
+2016,R128,Ivo Karlovic,Borna Coric,0.6758891003411613,1
+2016,R128,Andrey Kuznetsov,Pablo Cuevas,0.35782129189896245,0
+2016,R128,Gilles Muller,Santiago Giraldo,0.7854338389639733,1
+2016,R128,Julien Benneteau,Illya Marchenko,0.6473006763994783,1
+2016,R128,Kei Nishikori,Sam Groth,0.8541487277114957,1
+2016,R128,Dominic Thiem,Florian Mayer,0.6064953066030826,1
+2016,R64,Sam Querrey,Thomaz Bellucci,0.7210653884547136,1
+2016,R32,David Goffin,Denis Istomin,0.7360248971964253,1
+2016,R32,Milos Raonic,Jack Sock,0.7286707164605589,1
+2016,R64,David Goffin,Edouard Roger-Vasselin,0.7872502935650375,1
+2016,R64,Denis Istomin,Nicolas Almagro,0.4021539601948162,0
+2016,R128,Benjamin Becker,Facundo Bagnis,0.6909686356405289,1
+2016,R128,Tomas Berdych,Ivan Dodig,0.7761061386878111,1
+2016,R128,David Goffin,Alexander Ward,0.9056254668556988,1
+2016,R128,Denis Istomin,Kevin Anderson,0.26675252609616995,0
+2016,R128,Jack Sock,Ernests Gulbis,0.7226022405048221,1
+2016,R128,Robin Haase,Diego Schwartzman,0.6643320010772581,1
+2016,R128,Edouard Roger-Vasselin,Teymuraz Gabashvili,0.592351090154266,1
+2016,R128,Roberto Bautista Agut,Jordan Thompson,0.9052396360243392,1
+2016,R64,Milos Raonic,Andreas Seppi,0.7470914597244462,1
+2016,R64,Jack Sock,Robin Haase,0.6981418910989752,1
+2016,R32,Steve Johnson,Grigor Dimitrov,0.5046993641255909,1
+2016,R32,Roger Federer,Daniel Evans,0.9745766370106532,1
+2016,R64,Novak Djokovic,Adrian Mannarino,0.9660847010037875,1
+2016,R32,Nicolas Mahut,Pierre-Hugues Herbert,0.7369098052908803,1
+2016,R128,John Millman,Albert Montanes,0.6022117632088655,1
+2016,R128,Benoit Paire,Franko Skugor,0.6531027939640914,1
+2016,R128,Andy Murray,Liam Broady,0.985959309945686,1
+2016,R128,Yen-Hsun Lu,Alexander Kudryavtsev,0.7771436917306542,1
+2016,R128,Feliciano Lopez,Rajeev Ram,0.7051037795048037,1
+2016,R128,Lukas Lacko,Paolo Lorenzi,0.5839541913092396,1
+2016,R128,Nick Kyrgios,Radek Stepanek,0.6045175656279573,1
+2016,R128,Sergiy Stakhovsky,Yoshihito Nishioka,0.6384411152235318,1
+2016,R64,Lukas Lacko,Ivo Karlovic,0.18515489296920082,0
+2016,R64,Marin Cilic,Sergiy Stakhovsky,0.81987535583898,1
+2016,R64,Juan Martin del Potro,Stan Wawrinka,0.5341393771781724,1
+2016,R64,Lucas Pouille,Donald Young,0.6167377733147265,1
+2016,R16,Lucas Pouille,Bernard Tomic,0.2592638685995024,0
+2016,R16,Tomas Berdych,Jiri Vesely,0.8225766015105617,1
+2016,R64,Jiri Vesely,Dominic Thiem,0.17785503215627746,0
+2016,R16,Milos Raonic,David Goffin,0.6775586485401771,1
+2016,R64,Grigor Dimitrov,Gilles Simon,0.4772324175285534,0
+2016,R128,Radu Albot,Gastao Elias,0.5868955059407401,1
+2016,R64,Kei Nishikori,Julien Benneteau,0.8533258137621199,1
+2016,R64,Andrey Kuznetsov,Gilles Muller,0.28393666788637767,0
+2016,R128,Bernard Tomic,Fernando Verdasco,0.5279980743675642,1
+2016,R128,Nicolas Almagro,Rogerio Dutra Silva,0.8056694550040678,1
+2016,R64,Roger Federer,Marcus Willis,0.9773261007621676,1
+2016,R32,Tomas Berdych,Alexander Zverev,0.5702225572630967,1
+2016,R64,Daniel Evans,Alexandr Dolgopolov,0.21259783281201497,0
+2016,R32,Jiri Vesely,Joao Sousa,0.5097802951566824,1
+2016,QF,Andy Murray,Jo-Wilfried Tsonga,0.8314857788790486,1
+2016,R64,John Isner,Matthew Barton,0.8267321995842016,1
+2016,SF,Andy Murray,Tomas Berdych,0.8431374620652293,1
+2016,SF,Milos Raonic,Roger Federer,0.23636536789126006,0
+2016,F,Andy Murray,Milos Raonic,0.7971807247545055,1
+2016,R64,Albert Ramos-Vinolas,Viktor Troicki,0.34372847951735536,0
+2016,QF,Milos Raonic,Sam Querrey,0.7747811553933645,1
+2016,R32,Bernard Tomic,Roberto Bautista Agut,0.3795452006164118,0
+2016,R32,Nick Kyrgios,Feliciano Lopez,0.5799222828661608,1
+2016,R32,Andy Murray,John Millman,0.9571237040056487,1
+2016,R16,Sam Querrey,Nicolas Mahut,0.43909967710805686,0
+2016,R64,Steve Johnson,Jeremy Chardy,0.6585133382427114,1
+2016,R32,Richard Gasquet,Albert Ramos-Vinolas,0.8196171100658538,1
+2016,R32,Lucas Pouille,Juan Martin del Potro,0.1275636008745826,0
+2016,R128,Dustin Brown,Dusan Lajovic,0.6899177248448529,1
+2016,R64,Richard Gasquet,Marcel Granollers,0.8307917048294405,1
+2016,R16,Andy Murray,Nick Kyrgios,0.889111854156723,1
+2016,R16,Jo-Wilfried Tsonga,Richard Gasquet,0.5261340443218249,1
+2016,R32,Jo-Wilfried Tsonga,John Isner,0.6075480541311713,1
+2016,R128,Fabio Fognini,Federico Delbonis,0.6689300862028491,1
+2016,R64,Nick Kyrgios,Dustin Brown,0.691705377410281,1
+2016,R64,Jo-Wilfried Tsonga,Juan Monaco,0.7876045107972411,1
+2016,R32,Sam Querrey,Novak Djokovic,0.0405098705177188,0
+2016,R64,Andy Murray,Yen-Hsun Lu,0.9496305999917293,1
+2016,R64,John Millman,Benoit Paire,0.5639654456108547,1
+2016,R64,Feliciano Lopez,Fabio Fognini,0.6030724278668089,1
+2016,R32,Marin Cilic,Lukas Lacko,0.89524835386865,1
+2016,R32,Kei Nishikori,Andrey Kuznetsov,0.860514808847193,1
+2016,R128,Mikhail Kukushkin,Martin Klizan,0.4195603943716369,0
+2017,R128,Dominic Thiem,Vasek Pospisil,0.7010161642454289,1
+2017,R128,Roger Federer,Alexandr Dolgopolov,0.9302060068418744,1
+2017,R64,Steve Johnson,Radu Albot,0.7556257980680625,1
+2017,R128,Marin Cilic,Philipp Kohlschreiber,0.6568207017602893,1
+2017,R128,Adam Pavlasek,Ernesto Escobedo,0.41085918508570746,0
+2017,R128,Mikhail Youzhny,Nicolas Mahut,0.4019711967141143,0
+2017,R128,Andrey Rublev,Stefano Travaglia,0.7347497276161238,1
+2017,R128,Albert Ramos-Vinolas,Jordan Thompson,0.6165880587746515,1
+2017,R128,Milos Raonic,Jan-Lennard Struff,0.9029533454170572,1
+2017,R128,Aljaz Bedene,Ivo Karlovic,0.3421480335668447,0
+2017,R128,Mikhail Kukushkin,Taro Daniel,0.5411329715423712,1
+2017,R128,Mischa Zverev,Bernard Tomic,0.4161320942980851,0
+2017,R128,John Isner,Taylor Fritz,0.8060599621439015,1
+2017,R128,Dudi Sela,Marcel Granollers,0.5245032703727566,1
+2017,R128,Marcos Baghdatis,James Ward,0.8473647021031518,1
+2017,R128,Grigor Dimitrov,Diego Schwartzman,0.8378073832877563,1
+2017,R128,Alexander Zverev,Evgeny Donskoy,0.9272745931721101,1
+2017,R128,Frances Tiafoe,Robin Haase,0.22800877859148522,0
+2017,R128,Sebastian Ofner,Thomaz Bellucci,0.38323130835164854,0
+2017,R64,Jo-Wilfried Tsonga,Simone Bolelli,0.8322969752391856,1
+2017,R32,Adrian Mannarino,Gael Monfils,0.3330124605147586,0
+2017,R64,Marin Cilic,Florian Mayer,0.743738688996926,1
+2017,R64,Sebastian Ofner,Jack Sock,0.14299966666891284,0
+2017,R64,Alexander Zverev,Frances Tiafoe,0.9451619460306447,1
+2017,R64,Milos Raonic,Mikhail Youzhny,0.8568888504767688,1
+2017,R64,Albert Ramos-Vinolas,Andrey Rublev,0.5288802893615812,1
+2017,F,Roger Federer,Marin Cilic,0.7819029888978825,1
+2017,R64,Novak Djokovic,Adam Pavlasek,0.9847602795448991,1
+2017,R32,Andy Murray,Fabio Fognini,0.9266667726764186,1
+2017,R32,Benoit Paire,Jerzy Janowicz,0.4547749774005897,0
+2017,R32,Sam Querrey,Jo-Wilfried Tsonga,0.2716918318438596,0
+2017,R32,Kevin Anderson,Ruben Bemelmans,0.8319947706801781,1
+2017,R64,Grigor Dimitrov,Marcos Baghdatis,0.6566387207772921,1
+2017,R128,Steve Darcis,Ricardas Berankis,0.8005852154314148,1
+2017,R128,Ryan Harrison,Borna Coric,0.42504285737989017,0
+2017,R128,Tomas Berdych,Jeremy Chardy,0.7938872795194882,1
+2017,R128,Gael Monfils,Daniel Brands,0.8377407385017926,1
+2017,R128,Kyle Edmund,Alexander Ward,0.6670324369700295,1
+2017,R128,Yuichi Sugita,Brydan Klein,0.8388144737263165,1
+2017,R128,Adrian Mannarino,Feliciano Lopez,0.29573408621926556,0
+2017,R128,Juan Martin del Potro,Thanasi Kokkinakis,0.9007480786193408,1
+2017,R128,Ernests Gulbis,Victor Estrella Burgos,0.5546186847872628,1
+2017,R64,Roberto Bautista Agut,Peter Gojowczyk,0.7954308236208059,1
+2017,R64,Kei Nishikori,Sergiy Stakhovsky,0.847739642728249,1
+2017,R64,Gilles Muller,Lukas Rosol,0.8734420580481882,1
+2017,R128,Gilles Simon,Nicolas Jarry,0.8040819467294118,1
+2017,R128,Jared Donaldson,Janko Tipsarevic,0.3623345216649697,0
+2017,R128,Paolo Lorenzi,Horacio Zeballos,0.46692676356613105,0
+2017,R128,David Ferrer,Richard Gasquet,0.3100190684998197,0
+2017,R128,Damir Dzumhur,Renzo Olivo,0.6309728115378282,1
+2017,R128,Lukas Rosol,Henri Laaksonen,0.5215889567852227,1
+2017,R128,Gilles Muller,Marton Fucsovics,0.8983956238937683,1
+2017,R128,Kei Nishikori,Marco Cecchinato,0.9341907804307416,1
+2017,R128,Sergiy Stakhovsky,Julien Benneteau,0.4312716898285691,0
+2017,R128,Peter Gojowczyk,Marius Copil,0.5593624269562246,1
+2017,R128,Roberto Bautista Agut,Andreas Haider-Maurer,0.8731582212546948,1
+2017,R128,Steve Johnson,Nicolas Kicker,0.7196879402814884,1
+2017,R128,Radu Albot,Facundo Bagnis,0.6440612617203935,1
+2017,R64,Ernests Gulbis,Juan Martin del Potro,0.1041517217730869,0
+2017,R128,Novak Djokovic,Martin Klizan,0.9794131732455872,1
+2017,R64,Andy Murray,Dustin Brown,0.9570472968925445,1
+2017,R64,Fabio Fognini,Jiri Vesely,0.538475405943959,1
+2017,R64,Benoit Paire,Pierre-Hugues Herbert,0.5364992720856562,1
+2017,R64,Jerzy Janowicz,Lucas Pouille,0.3007996743767497,0
+2017,R128,Jack Sock,Cristian Garin,0.8452398896087427,1
+2017,R128,Benoit Paire,Rogerio Dutra Silva,0.7771620282321968,1
+2017,R128,Jerzy Janowicz,Denis Shapovalov,0.6740307129584207,1
+2017,R128,Lucas Pouille,Malek Jaziri,0.8229811191440985,1
+2017,R128,Jo-Wilfried Tsonga,Cameron Norrie,0.9197369416673076,1
+2017,R128,Simone Bolelli,Yen-Hsun Lu,0.5233508515596598,1
+2017,R128,Nikoloz Basilashvili,Carlos Berlocq,0.6120925643200615,1
+2017,R128,Sam Querrey,Thomas Fabbiano,0.8243137460963235,1
+2017,R128,Kevin Anderson,Fernando Verdasco,0.5623955831921218,1
+2017,R128,Andreas Seppi,Norbert Gombos,0.8128700366491675,1
+2017,R32,Gilles Muller,Aljaz Bedene,0.7752961361213051,1
+2017,R64,Adrian Mannarino,Yuichi Sugita,0.47175061399434665,0
+2017,R64,Gael Monfils,Kyle Edmund,0.8561651741729179,1
+2017,R64,Tomas Berdych,Ryan Harrison,0.8721664686678261,1
+2017,R64,David Ferrer,Steve Darcis,0.5833079812073353,1
+2017,R64,Jared Donaldson,Paolo Lorenzi,0.6134786400374181,1
+2017,R64,Dominic Thiem,Gilles Simon,0.6054496981490742,1
+2017,R64,Roger Federer,Dusan Lajovic,0.9635776222725864,1
+2017,R64,Mischa Zverev,Mikhail Kukushkin,0.6652683094521091,1
+2017,R64,Dudi Sela,John Isner,0.23946834342329992,0
+2017,R16,Milos Raonic,Alexander Zverev,0.4964779752603242,0
+2017,R128,Florian Mayer,Viktor Troicki,0.6011621575991136,1
+2017,R128,Dustin Brown,Joao Sousa,0.5642586886280201,1
+2017,R128,Jiri Vesely,Illya Marchenko,0.7285226316719505,1
+2017,R128,Fabio Fognini,Dmitry Tursunov,0.645076771836239,1
+2017,R128,Pierre-Hugues Herbert,Nick Kyrgios,0.2115680783554032,0
+2017,R32,Novak Djokovic,Ernests Gulbis,0.9728922417616795,1
+2017,R16,Gilles Muller,Rafael Nadal,0.32576508301695345,0
+2017,R16,Sam Querrey,Kevin Anderson,0.47173123718793963,0
+2017,R16,Marin Cilic,Roberto Bautista Agut,0.627488967526497,1
+2017,R16,Andy Murray,Benoit Paire,0.9488270902405672,1
+2017,R128,Andy Murray,Alexander Bublik,0.9683423692795088,1
+2017,R32,Rafael Nadal,Karen Khachanov,0.7679298492391395,1
+2017,R64,Sam Querrey,Nikoloz Basilashvili,0.704787741356214,1
+2017,R64,Kevin Anderson,Andreas Seppi,0.583879702099775,1
+2017,R64,Ruben Bemelmans,Daniil Medvedev,0.1689329438887909,0
+2017,R64,Rafael Nadal,Donald Young,0.8544641213656091,1
+2017,R64,Karen Khachanov,Thiago Monteiro,0.8254415720952262,1
+2017,R64,Aljaz Bedene,Damir Dzumhur,0.5866807398047713,1
+2017,SF,Marin Cilic,Sam Querrey,0.7115478644191293,1
+2017,R32,Roberto Bautista Agut,Kei Nishikori,0.3986506802839462,0
+2017,R32,Marin Cilic,Steve Johnson,0.7271702583664411,1
+2017,R128,Dusan Lajovic,Stefanos Tsitsipas,0.6660712056518383,1
+2017,SF,Roger Federer,Tomas Berdych,0.8170629932416168,1
+2017,R32,Milos Raonic,Albert Ramos-Vinolas,0.8356779425125073,1
+2017,R32,Alexander Zverev,Sebastian Ofner,0.9348319922477115,1
+2017,R32,Grigor Dimitrov,Dudi Sela,0.7888157861596826,1
+2017,R32,Roger Federer,Mischa Zverev,0.9341500956608371,1
+2017,R32,Dominic Thiem,Jared Donaldson,0.8161940056245677,1
+2017,R32,Tomas Berdych,David Ferrer,0.7078856582106413,1
+2017,R16,Roger Federer,Grigor Dimitrov,0.8622602835859691,1
+2017,R16,Tomas Berdych,Dominic Thiem,0.6125812942290777,1
+2017,R16,Novak Djokovic,Adrian Mannarino,0.9427154135849329,1
+2017,QF,Sam Querrey,Andy Murray,0.09771525060683942,0
+2017,QF,Marin Cilic,Gilles Muller,0.5598043825204253,1
+2017,QF,Roger Federer,Milos Raonic,0.7559949207540255,1
+2017,QF,Tomas Berdych,Novak Djokovic,0.1400642876753796,0
+2017,R128,Karen Khachanov,Andrey Kuznetsov,0.7154177877493046,1
+2017,R128,Ruben Bemelmans,Tommy Haas,0.1901189889386714,0
+2017,R128,Donald Young,Denis Istomin,0.5998344816441834,1
+2017,R128,Rafael Nadal,John Millman,0.8655001431456713,1
+2017,R128,Daniil Medvedev,Stan Wawrinka,0.3725689196825433,0
+2017,R128,Thiago Monteiro,Andrew Whittington,0.49231495645217704,0
+2018,R128,Stan Wawrinka,Grigor Dimitrov,0.3989157171066868,0
+2018,R128,Thomas Fabbiano,Yuki Bhambri,0.4463416308927739,0
+2018,R128,Jared Donaldson,Malek Jaziri,0.502407930002521,1
+2018,R128,Stefanos Tsitsipas,Gregoire Barrere,0.8081572753579768,1
+2018,R128,Radu Albot,Pablo Carreno Busta,0.445364533648432,0
+2018,R128,Aljaz Bedene,Cameron Norrie,0.6288410681941868,1
+2018,R128,Jiri Vesely,Florian Mayer,0.47107563889612825,0
+2018,R128,John Isner,Yannick Maden,0.8481617202234994,1
+2018,R128,Milos Raonic,Liam Broady,0.9400727433976372,1
+2018,R128,John Millman,Stefano Travaglia,0.7468548315270134,1
+2018,R128,Dennis Novak,Peter Polansky,0.6130051303638305,1
+2018,R128,Lucas Pouille,Denis Kudla,0.7109829150415946,1
+2018,R128,Nicolas Jarry,Filip Krajinovic,0.40064105377364617,0
+2018,R128,Alexander Zverev,James Duckworth,0.918483821889746,1
+2018,R128,Taylor Fritz,Lorenzo Sonego,0.449648897039018,0
+2018,R128,Ernests Gulbis,Jay Clarke,0.662924267561643,1
+2018,R128,Damir Dzumhur,Maximilian Marterer,0.734847425720892,1
+2018,R128,Kei Nishikori,Christian Harrison,0.9076395690826032,1
+2018,R128,Bernard Tomic,Hubert Hurkacz,0.7930568251582023,1
+2018,R64,Mackenzie McDonald,Nicolas Jarry,0.43483165461645235,0
+2018,R128,Nick Kyrgios,Denis Istomin,0.7887106838360819,1
+2018,R128,Novak Djokovic,Tennys Sandgren,0.9684337549098467,1
+2018,R128,Horacio Zeballos,Guido Andreozzi,0.38997689340347896,0
+2018,R128,Bradley Klahn,Yuichi Sugita,0.18892032117402383,0
+2018,R128,Kyle Edmund,Alex Bolt,0.7919934068286972,1
+2018,R128,Frances Tiafoe,Fernando Verdasco,0.47772412532138187,0
+2018,R128,Ivo Karlovic,Mikhail Youzhny,0.6377920240270388,1
+2018,R128,Lukas Lacko,Benjamin Bonzi,0.5803786847904703,1
+2018,R128,Roger Federer,Dusan Lajovic,0.9562129936852106,1
+2018,R128,Rafael Nadal,Dudi Sela,0.91086336230145,1
+2018,R128,Mikhail Kukushkin,Vasek Pospisil,0.5993824084471869,1
+2018,R128,Pierre-Hugues Herbert,Mischa Zverev,0.4193271954870974,0
+2018,R128,Alex de Minaur,Marco Cecchinato,0.3225046382596572,0
+2018,R128,Fabio Fognini,Taro Daniel,0.8092200642607501,1
+2018,R128,Simone Bolelli,Pablo Cuevas,0.49987659027038434,0
+2018,R64,Benoit Paire,Denis Shapovalov,0.6412871406068344,1
+2018,R128,Diego Schwartzman,Mirza Basic,0.4845942952992617,0
+2018,R128,Matthew Ebden,David Goffin,0.29585360279896855,0
+2018,R128,Stephane Robert,Albert Ramos-Vinolas,0.29054001121000167,0
+2018,R128,Gilles Simon,Nikoloz Basilashvili,0.6345519693353532,1
+2018,R128,Matteo Berrettini,Jack Sock,0.2663606657556428,0
+2018,R128,Denis Shapovalov,Jeremy Chardy,0.3229587080886057,0
+2018,R128,Mackenzie McDonald,Ricardas Berankis,0.5524258421859063,1
+2018,R128,Guido Pella,Jason Kubler,0.641664281331017,1
+2018,R128,Marin Cilic,Yoshihito Nishioka,0.9365004937796194,1
+2018,R64,Thomas Fabbiano,Stan Wawrinka,0.1674152053697943,0
+2018,R64,Stefanos Tsitsipas,Jared Donaldson,0.6709610994504536,1
+2018,R64,Radu Albot,Aljaz Bedene,0.35313628007274706,0
+2018,R64,John Isner,Ruben Bemelmans,0.7944531796969045,1
+2018,R64,Milos Raonic,John Millman,0.8378536902990378,1
+2018,R64,Dennis Novak,Lucas Pouille,0.2222079494322263,0
+2018,R32,Novak Djokovic,Kyle Edmund,0.9313723585287784,1
+2018,R64,Guido Pella,Marin Cilic,0.08290733789173588,0
+2018,R64,Kevin Anderson,Andreas Seppi,0.6475315985835779,1
+2018,R64,Philipp Kohlschreiber,Gilles Muller,0.5266947647581939,1
+2018,R64,Gael Monfils,Paolo Lorenzi,0.8917398992998681,1
+2018,R64,Sam Querrey,Sergiy Stakhovsky,0.7521546563456453,1
+2018,R64,Daniil Medvedev,Guillermo Garcia-Lopez,0.6433730591784949,1
+2018,R128,Julien Benneteau,Marton Fucsovics,0.6121197069860944,1
+2018,R128,Karen Khachanov,David Ferrer,0.6149871374533126,1
+2018,R128,Marcos Baghdatis,Dominic Thiem,0.2826933718648837,0
+2018,R64,Rafael Nadal,Mikhail Kukushkin,0.9097387748307313,1
+2018,R64,Alex de Minaur,Pierre-Hugues Herbert,0.32549592833573565,0
+2018,R64,Fabio Fognini,Simone Bolelli,0.6319935423167515,1
+2018,R64,Jiri Vesely,Diego Schwartzman,0.6336499343996986,1
+2018,R64,Matthew Ebden,Stephane Robert,0.7172216537711622,1
+2018,R64,Gilles Simon,Matteo Berrettini,0.736419771665287,1
+2018,QF,John Isner,Milos Raonic,0.3049306408918517,0
+2018,R64,Juan Martin del Potro,Feliciano Lopez,0.6985850636247947,1
+2018,R64,Alexander Zverev,Taylor Fritz,0.9075959911568595,1
+2018,R64,Ernests Gulbis,Damir Dzumhur,0.3149326007172223,0
+2018,R64,Kei Nishikori,Bernard Tomic,0.7071057045442427,1
+2018,R64,Nick Kyrgios,Robin Haase,0.8139736175788795,1
+2018,R64,Novak Djokovic,Horacio Zeballos,0.9809326421662548,1
+2018,R128,Benoit Paire,Jason Jung,0.8874773252536974,1
+2018,R128,Feliciano Lopez,Federico Delbonis,0.8497647245447925,1
+2018,R128,Juan Martin del Potro,Peter Gojowczyk,0.8220395858197118,1
+2018,R64,Karen Khachanov,Marcos Baghdatis,0.6952230054203618,1
+2018,R32,Rafael Nadal,Alex de Minaur,0.938173437336859,1
+2018,R32,Jiri Vesely,Fabio Fognini,0.34724869090682753,0
+2018,R32,Gilles Simon,Matthew Ebden,0.5329593891665731,1
+2018,R32,Juan Martin del Potro,Benoit Paire,0.7849651154476768,1
+2018,R32,Ernests Gulbis,Alexander Zverev,0.13457701106993306,0
+2018,R32,Kei Nishikori,Nick Kyrgios,0.4468028502774107,0
+2018,R32,Karen Khachanov,Frances Tiafoe,0.6682375166573409,1
+2018,R32,Stefanos Tsitsipas,Thomas Fabbiano,0.723756149400798,1
+2018,R32,John Isner,Radu Albot,0.800566130364722,1
+2018,R32,Milos Raonic,Dennis Novak,0.9190649590773468,1
+2018,R32,Mackenzie McDonald,Guido Pella,0.38483576032469974,0
+2018,R32,Kevin Anderson,Philipp Kohlschreiber,0.5319743120165009,1
+2018,R64,Adrian Mannarino,Ryan Harrison,0.7669723365666986,1
+2018,R64,Jan-Lennard Struff,Ivo Karlovic,0.2777869815916467,0
+2018,R64,Roger Federer,Lukas Lacko,0.9666751138239476,1
+2018,F,Novak Djokovic,Kevin Anderson,0.8665113040827326,1
+2018,SF,Novak Djokovic,Rafael Nadal,0.6349353160340157,1
+2018,SF,Kevin Anderson,John Isner,0.47966224161738624,0
+2018,QF,Rafael Nadal,Juan Martin del Potro,0.6186926280615448,1
+2018,QF,Novak Djokovic,Kei Nishikori,0.8168807576593764,1
+2018,R16,Milos Raonic,Mackenzie McDonald,0.9300514148833422,1
+2018,R16,Kevin Anderson,Gael Monfils,0.527001663013505,1
+2018,R16,Roger Federer,Adrian Mannarino,0.9172374016395319,1
+2018,QF,Kevin Anderson,Roger Federer,0.1118332279934135,0
+2018,R16,Rafael Nadal,Jiri Vesely,0.8997973106651135,1
+2018,R16,Juan Martin del Potro,Gilles Simon,0.8162901385008263,1
+2018,R16,Kei Nishikori,Ernests Gulbis,0.8137011100296027,1
+2018,R16,Novak Djokovic,Karen Khachanov,0.8599439296088227,1
+2018,R16,John Isner,Stefanos Tsitsipas,0.6830670363902873,1
+2018,R64,Kyle Edmund,Bradley Klahn,0.836069015041917,1
+2018,R64,Frances Tiafoe,Julien Benneteau,0.5105625631872105,1
+2018,R128,Kevin Anderson,Norbert Gombos,0.9010161878489027,1
+2018,R128,Andreas Seppi,John-Patrick Smith,0.8070012917252171,1
+2018,R128,Gilles Muller,Michael Mmoh,0.8156445574005472,1
+2018,R128,Philipp Kohlschreiber,Evgeny Donskoy,0.8176311547014566,1
+2018,R128,Gael Monfils,Richard Gasquet,0.4204595899920845,0
+2018,R128,Paolo Lorenzi,Laslo Djere,0.3376957133594789,0
+2018,R128,Robin Haase,Marius Copil,0.6270989703931169,1
+2018,R128,Sam Querrey,Jordan Thompson,0.882213077373488,1
+2018,R128,Daniil Medvedev,Borna Coric,0.3178094479112728,0
+2018,R128,Guillermo Garcia-Lopez,Gastao Elias,0.6648242250959027,1
+2018,R128,Ryan Harrison,Roberto Carballes Baena,0.5159052202849979,1
+2018,R128,Adrian Mannarino,Cristian Garin,0.8312256903549199,1
+2018,R128,Jan-Lennard Struff,Leonardo Mayer,0.2883643600607837,0
+2018,R128,Ruben Bemelmans,Steve Johnson,0.296060699873107,0
+2018,R32,Gael Monfils,Sam Querrey,0.46354163742210763,0
+2018,R32,Adrian Mannarino,Daniil Medvedev,0.5705759398959567,1
+2018,R32,Roger Federer,Jan-Lennard Struff,0.9752885205838915,1
+2018,R128,Sergiy Stakhovsky,Joao Sousa,0.4900673844604983,0
+2019,R128,Feliciano Lopez,Marcos Giron,0.797542739288886,1
+2019,R128,Nick Kyrgios,Jordan Thompson,0.6569780541680126,1
+2019,R128,Leonardo Mayer,Ernests Gulbis,0.5533626167278609,1
+2019,R128,Steve Johnson,Albert Ramos-Vinolas,0.5722795158065133,1
+2019,R128,Ivo Karlovic,Andrea Arnaboldi,0.6856707948637316,1
+2019,R128,Miomir Kecmanovic,Roberto Carballes Baena,0.7112903758123179,1
+2019,R128,Denis Kudla,Malek Jaziri,0.6434448203992524,1
+2019,R128,Mikhail Kukushkin,Pablo Andujar,0.6987538547157744,1
+2019,R128,Kevin Anderson,Pierre-Hugues Herbert,0.6917946521190662,1
+2019,R128,Robin Haase,Jozef Kovalik,0.6557073314122064,1
+2019,R128,Rafael Nadal,Yuichi Sugita,0.9447961903338855,1
+2019,R64,Sam Querrey,Andrey Rublev,0.6959937796210225,1
+2019,R128,Hubert Hurkacz,Dusan Lajovic,0.511744968106159,1
+2019,R64,Jiri Vesely,Pablo Cuevas,0.5656502055791663,1
+2019,R128,Novak Djokovic,Philipp Kohlschreiber,0.9167319761858974,1
+2019,R128,Roger Federer,Lloyd Harris,0.9759495065149058,1
+2019,R128,Lucas Pouille,Richard Gasquet,0.36655049410115703,0
+2019,R128,Guido Pella,Marius Copil,0.6340069242724948,1
+2019,R128,Alex de Minaur,Marco Cecchinato,0.5805269186677313,1
+2019,R128,Diego Schwartzman,Matthew Ebden,0.6096882704797175,1
+2019,R128,Roberto Bautista Agut,Peter Gojowczyk,0.8277671126180592,1
+2019,R64,Hubert Hurkacz,Leonardo Mayer,0.4726922985840746,0
+2019,R64,Ugo Humbert,Marcel Granollers,0.3502258278559407,0
+2019,R64,Thomas Fabbiano,Ivo Karlovic,0.4110467666231349,0
+2019,R64,Steve Johnson,Alex de Minaur,0.5701957107560044,1
+2019,R128,Stan Wawrinka,Ruben Bemelmans,0.8039182951492839,1
+2019,R64,Diego Schwartzman,Dominik Koepfer,0.7113620798498189,1
+2019,R64,Felix Auger-Aliassime,Corentin Moutet,0.8681825638415079,1
+2019,R128,Ugo Humbert,Gael Monfils,0.1492973816529662,0
+2019,R64,David Goffin,Jeremy Chardy,0.7255101649059226,1
+2019,R64,Reilly Opelka,Stan Wawrinka,0.17315021109022183,0
+2019,R64,Roberto Bautista Agut,Steve Darcis,0.8082875553359852,1
+2019,R64,Roger Federer,Jay Clarke,0.9864563244758737,1
+2019,R64,Novak Djokovic,Denis Kudla,0.9602367069903273,1
+2019,R32,Fernando Verdasco,Thomas Fabbiano,0.6398888155022561,1
+2019,R64,Jo-Wilfried Tsonga,Ricardas Berankis,0.8959993515566261,1
+2019,R32,Sam Querrey,John Millman,0.7680121446977246,1
+2019,R64,Daniel Evans,Nikoloz Basilashvili,0.543154975354933,1
+2019,R64,Matteo Berrettini,Marcos Baghdatis,0.7932455647631986,1
+2019,R64,Milos Raonic,Robin Haase,0.8555192031488977,1
+2019,R128,Karen Khachanov,Soonwoo Kwon,0.9065702529973177,1
+2019,R128,John Isner,Casper Ruud,0.7453953139023949,1
+2019,R128,Kei Nishikori,Thiago Monteiro,0.8779281393321962,1
+2019,R128,Thomas Fabbiano,Stefanos Tsitsipas,0.23380736418380604,0
+2019,R128,Jiri Vesely,Alexander Zverev,0.26581022672238536,0
+2019,R128,Sam Querrey,Dominic Thiem,0.46480175713817673,0
+2019,R64,Kevin Anderson,Janko Tipsarevic,0.8530967512336776,1
+2019,R64,Rafael Nadal,Nick Kyrgios,0.7968929108532476,1
+2019,R64,Jan-Lennard Struff,Taylor Fritz,0.5037773927762831,1
+2019,R64,John Millman,Laslo Djere,0.5839936493615677,1
+2019,R64,Fernando Verdasco,Kyle Edmund,0.5608746623324534,1
+2019,R64,Benoit Paire,Miomir Kecmanovic,0.5219265765006819,1
+2019,R64,Lucas Pouille,Gregoire Barrere,0.816928411941838,1
+2019,R32,Mikhail Kukushkin,Jan-Lennard Struff,0.3387596559617396,0
+2019,R32,Benoit Paire,Jiri Vesely,0.5558224505844318,1
+2019,R32,Ugo Humbert,Felix Auger-Aliassime,0.11979602689763996,0
+2019,R32,Guido Pella,Kevin Anderson,0.1729088466965921,0
+2019,R64,Guido Pella,Andreas Seppi,0.43393118581760304,0
+2019,R32,Rafael Nadal,Jo-Wilfried Tsonga,0.7529694559588349,1
+2019,R16,David Goffin,Fernando Verdasco,0.6832875195097249,1
+2019,R64,Tennys Sandgren,Gilles Simon,0.19559351763308538,0
+2019,R16,Sam Querrey,Tennys Sandgren,0.8583261328330885,1
+2019,R32,Novak Djokovic,Hubert Hurkacz,0.95417984764031,1
+2019,R32,Roger Federer,Lucas Pouille,0.925750362552381,1
+2019,F,Novak Djokovic,Roger Federer,0.5079825472602406,1
+2019,R32,Joao Sousa,Daniel Evans,0.3903832542308596,0
+2019,R32,Kei Nishikori,Steve Johnson,0.7886896867873329,1
+2019,R32,Roberto Bautista Agut,Karen Khachanov,0.5416168905599523,1
+2019,R32,David Goffin,Daniil Medvedev,0.5362272247480654,1
+2019,R16,Guido Pella,Milos Raonic,0.14924577082782553,0
+2019,R16,Kei Nishikori,Mikhail Kukushkin,0.8323092256407341,1
+2019,R16,Rafael Nadal,Joao Sousa,0.9445255839970208,1
+2019,R64,Joao Sousa,Marin Cilic,0.1117984175582209,0
+2019,R64,Fabio Fognini,Marton Fucsovics,0.6949769678843456,1
+2019,R64,Daniil Medvedev,Alexei Popyrin,0.8373204479629421,1
+2019,R64,Karen Khachanov,Feliciano Lopez,0.5368968797687119,1
+2019,R64,Mikhail Kukushkin,John Isner,0.21115602950707907,0
+2019,R64,Kei Nishikori,Cameron Norrie,0.8669331436066479,1
+2019,SF,Roger Federer,Rafael Nadal,0.6281921730940246,1
+2019,SF,Novak Djokovic,Roberto Bautista Agut,0.8481090156147987,1
+2019,QF,Roger Federer,Kei Nishikori,0.8104464437389558,1
+2019,R16,Novak Djokovic,Ugo Humbert,0.9775004254451791,1
+2019,R16,Roger Federer,Matteo Berrettini,0.8171015377446329,1
+2019,QF,Rafael Nadal,Sam Querrey,0.8112738461140769,1
+2019,QF,Roberto Bautista Agut,Guido Pella,0.7879782499576898,1
+2019,R32,Tennys Sandgren,Fabio Fognini,0.16609450027406908,0
+2019,R32,Milos Raonic,Reilly Opelka,0.9114943856539922,1
+2019,R32,Matteo Berrettini,Diego Schwartzman,0.800811248988157,1
+2019,R16,Roberto Bautista Agut,Benoit Paire,0.6994006639503407,1
+2019,QF,Novak Djokovic,David Goffin,0.8598297797339486,1
+2019,R128,Taylor Fritz,Tomas Berdych,0.321023579749148,0
+2019,R128,Reilly Opelka,Cedrik-Marcel Stebe,0.4794935155071068,0
+2019,R128,Cameron Norrie,Denis Istomin,0.4021082713398248,0
+2019,R128,Corentin Moutet,Grigor Dimitrov,0.17676595570292797,0
+2019,R128,John Millman,Hugo Dellien,0.5475530953193645,1
+2019,R128,Fernando Verdasco,Kamil Majchrzak,0.7540604167625218,1
+2019,R128,Jeremy Chardy,Martin Klizan,0.6292278188462005,1
+2019,R128,Gregoire Barrere,Alexander Bublik,0.3926949777577993,0
+2019,R128,Marcos Baghdatis,Brayden Schnur,0.6685734554036212,1
+2019,R128,Jan-Lennard Struff,Radu Albot,0.5863756538134078,1
+2019,R128,Jo-Wilfried Tsonga,Bernard Tomic,0.7525574239067033,1
+2019,R128,Laslo Djere,Guido Andreozzi,0.6005110296553259,1
+2019,R128,Kyle Edmund,Jaume Munar,0.7211209782034972,1
+2019,R128,Ricardas Berankis,Denis Shapovalov,0.326596126119585,0
+2019,R128,Benoit Paire,Juan Ignacio Londero,0.6332934366714241,1
+2019,R128,Andrey Rublev,Cristian Garin,0.4565911680231621,0
+2019,R128,Alexei Popyrin,Pablo Carreno Busta,0.39365585226347233,0
+2019,R128,Nikoloz Basilashvili,James Ward,0.7873925116325703,1
+2019,R128,Gilles Simon,Salvatore Caruso,0.805546872869187,1
+2019,R128,Milos Raonic,Prajnesh Gunneswaran,0.9310892043382828,1
+2019,R128,Matteo Berrettini,Aljaz Bedene,0.8008810583612851,1
+2019,R128,Dominik Koepfer,Filip Krajinovic,0.2796083545897389,0
+2019,R128,Jay Clarke,Noah Rubin,0.3885643137231562,0
+2019,R128,Janko Tipsarevic,Yoshihito Nishioka,0.5497701951424109,1
+2019,R128,Joao Sousa,Paul Jubb,0.6697332604753597,1
+2019,R128,Andreas Seppi,Nicolas Jarry,0.5022110085794746,1
+2019,R128,Tennys Sandgren,Yasutaka Uchiyama,0.41978772360153593,0
+2019,R128,Felix Auger-Aliassime,Vasek Pospisil,0.8129933850230845,1
+2019,R128,David Goffin,Bradley Klahn,0.8814088503518048,1
+2019,R128,Pablo Cuevas,Damir Dzumhur,0.42768350132519034,0
+2019,R128,Steve Darcis,Mischa Zverev,0.4838543408173897,0
+2019,R128,Daniel Evans,Federico Delbonis,0.7353846019408122,1
+2019,R128,Fabio Fognini,Frances Tiafoe,0.6567400797927474,1
+2019,R128,Marton Fucsovics,Dennis Novak,0.49671982874840603,0
+2019,R128,Marcel Granollers,Lorenzo Sonego,0.33831970324876437,0
+2019,R128,Daniil Medvedev,Paolo Lorenzi,0.9007161921415809,1
+2019,R128,Marin Cilic,Adrian Mannarino,0.7244826234857985,1
+2021,R128,Marin Cilic,Salvatore Caruso,0.9306241051100814,1
+2021,R128,Lloyd Harris,Ricardas Berankis,0.7018930095074356,1
+2021,R128,Marcos Giron,Emil Ruusuvuori,0.5985728053008734,1
+2021,R128,Egor Gerasimov,Jay Clarke,0.7654489607691178,1
+2021,R64,Felix Auger-Aliassime,Mikael Ymer,0.8508131648951425,1
+2021,R64,Hubert Hurkacz,Marcos Giron,0.47617253986061264,0
+2021,R64,Pedro Martinez,Gael Monfils,0.31965102438992493,0
+2021,R64,Diego Schwartzman,Liam Broady,0.7629613832754145,1
+2021,R64,Roberto Bautista Agut,Miomir Kecmanovic,0.7523433368122119,1
+2021,R64,Matteo Berrettini,Botic van de Zandschulp,0.9192791927667434,1
+2021,R64,Roger Federer,Richard Gasquet,0.8859136256822163,1
+2021,R64,Andrey Rublev,Lloyd Harris,0.7923329217717292,1
+2021,R64,Alexander Zverev,Tennys Sandgren,0.8181694028577152,1
+2021,R64,Daniil Medvedev,Carlos Alcaraz,0.8561548475233115,1
+2021,R128,Carlos Alcaraz,Yasutaka Uchiyama,0.670812192856051,1
+2021,R128,Mikael Ymer,Jo-Wilfried Tsonga,0.20376840398468937,0
+2021,R128,Jiri Vesely,Yannick Hanfmann,0.6276563581854927,1
+2021,R128,Botic van de Zandschulp,Gregoire Barrere,0.5300840194841446,1
+2021,R128,Andreas Seppi,Joao Sousa,0.6519177309167421,1
+2021,R64,Denis Kudla,Andreas Seppi,0.39108918741395643,0
+2021,R64,Sebastian Korda,Antoine Hoang,0.8199498007806085,1
+2021,R64,Dominik Koepfer,Soonwoo Kwon,0.39366534506538203,0
+2021,R64,Ilya Ivashka,Jeremy Chardy,0.42011085356091044,0
+2021,R64,Marton Fucsovics,Jiri Vesely,0.4847327702805195,0
+2021,R64,James Duckworth,Sam Querrey,0.17162301915368186,0
+2021,R64,Aljaz Bedene,Yoshihito Nishioka,0.6216777041945197,1
+2021,R64,Marin Cilic,Benjamin Bonzi,0.9079263149708969,1
+2021,R64,Taylor Fritz,Steve Johnson,0.5820718679464154,1
+2021,R64,Cameron Norrie,Alex Bolt,0.8368515962909561,1
+2021,R64,Fabio Fognini,Laslo Djere,0.737462889766288,1
+2021,R128,Ilya Ivashka,Jaume Munar,0.6567575713827642,1
+2021,R64,Lorenzo Sonego,Daniel Elahi Galan,0.6975271376368308,1
+2021,R64,Daniel Evans,Dusan Lajovic,0.7503781135772847,1
+2021,R64,Alexander Bublik,Grigor Dimitrov,0.4279639192313117,0
+2021,R64,Cristian Garin,Marc Polmans,0.7728019205086963,1
+2021,R32,Cristian Garin,Pedro Martinez,0.6458752742871389,1
+2021,R32,Felix Auger-Aliassime,Nick Kyrgios,0.5516463939991567,1
+2021,R32,Hubert Hurkacz,Alexander Bublik,0.4152571858773749,0
+2021,R32,Denis Shapovalov,Andy Murray,0.16795281077448898,0
+2021,R32,Marton Fucsovics,Diego Schwartzman,0.44059922914232164,0
+2021,R32,Roberto Bautista Agut,Dominik Koepfer,0.8284899315669716,1
+2021,R32,Matteo Berrettini,Aljaz Bedene,0.8856887331482308,1
+2021,R32,Roger Federer,Cameron Norrie,0.8760250996722567,1
+2021,R32,Andrey Rublev,Fabio Fognini,0.7253087896554283,1
+2021,R32,Alexander Zverev,Taylor Fritz,0.7079893165003478,1
+2021,R32,Daniil Medvedev,Marin Cilic,0.5583962385517173,1
+2021,R64,Novak Djokovic,Kevin Anderson,0.8856401989182774,1
+2021,R64,Frances Tiafoe,Vasek Pospisil,0.455819357860512,0
+2021,R64,Jordan Thompson,Kei Nishikori,0.22374888910841972,0
+2021,R64,Andy Murray,Oscar Otte,0.933426627397836,1
+2021,R64,Nick Kyrgios,Gianluca Mager,0.7994373790070565,1
+2021,QF,Denis Shapovalov,Karen Khachanov,0.4328075281715447,0
+2021,QF,Matteo Berrettini,Felix Auger-Aliassime,0.6619295302463555,1
+2021,QF,Hubert Hurkacz,Roger Federer,0.06359915267329988,0
+2021,QF,Novak Djokovic,Marton Fucsovics,0.956995867159236,1
+2021,R16,Karen Khachanov,Sebastian Korda,0.4669538027388568,0
+2021,R16,Denis Shapovalov,Roberto Bautista Agut,0.33314245963545996,0
+2021,R16,Matteo Berrettini,Ilya Ivashka,0.8981866690766566,1
+2021,R16,Roger Federer,Lorenzo Sonego,0.8949745688926507,1
+2021,R16,Marton Fucsovics,Andrey Rublev,0.2051018942425922,0
+2021,R16,Felix Auger-Aliassime,Alexander Zverev,0.4925342410449996,0
+2021,R16,Hubert Hurkacz,Daniil Medvedev,0.17391811971457957,0
+2021,R64,Karen Khachanov,Egor Gerasimov,0.6747046253900426,1
+2021,R32,Ilya Ivashka,Jordan Thompson,0.46090905681117433,0
+2021,R32,Karen Khachanov,Frances Tiafoe,0.6861044401712659,1
+2021,R32,Lorenzo Sonego,James Duckworth,0.7928923329909046,1
+2021,R32,Sebastian Korda,Daniel Evans,0.6028031271476304,1
+2021,R32,Novak Djokovic,Denis Kudla,0.9698210074623491,1
+2021,R128,Yoshihito Nishioka,John Isner,0.15072116189554977,0
+2021,R128,Dominik Koepfer,Reilly Opelka,0.4141084205494215,0
+2021,R128,Fabio Fognini,Albert Ramos-Vinolas,0.6787338610416919,1
+2021,R128,Karen Khachanov,Mackenzie McDonald,0.6055259247673954,1
+2021,R128,Andy Murray,Nikoloz Basilashvili,0.8648550525824037,1
+2021,R128,Lorenzo Sonego,Pedro Sousa,0.806657144250484,1
+2021,R128,Felix Auger-Aliassime,Thiago Monteiro,0.8402147514025179,1
+2021,R128,Sebastian Korda,Alex de Minaur,0.47523611023844314,0
+2021,R128,Hubert Hurkacz,Lorenzo Musetti,0.4211555578454059,0
+2021,R128,Gael Monfils,Christopher O'Connell,0.7788359935383381,1
+2021,R128,Richard Gasquet,Yuichi Sugita,0.7490938535132148,1
+2021,R128,Daniel Elahi Galan,Federico Coria,0.5444054569440737,1
+2021,R128,James Duckworth,Radu Albot,0.4084178953371056,0
+2021,R128,Laslo Djere,Pablo Cuevas,0.38675233023806815,0
+2021,R128,Alexander Bublik,Mikhail Kukushkin,0.6273208884859865,1
+2021,R128,Liam Broady,Marco Cecchinato,0.4143607944881255,0
+2021,R128,Benjamin Bonzi,Marco Trungelliti,0.4261414662896424,0
+2021,R128,Alex Bolt,Filip Krajinovic,0.40306766442588626,0
+2021,R128,Aljaz Bedene,Corentin Moutet,0.3957825301324936,0
+2021,R128,Pablo Andujar,Pierre-Hugues Herbert,0.1978088285295927,0
+2021,R128,Kevin Anderson,Tomas Barrios Vera,0.8938299214814838,1
+2021,R128,Novak Djokovic,Jack Draper,0.9685599828382372,1
+2021,F,Novak Djokovic,Matteo Berrettini,0.771183973281411,1
+2021,SF,Matteo Berrettini,Hubert Hurkacz,0.8722707427964439,1
+2021,SF,Novak Djokovic,Denis Shapovalov,0.938883267649378,1
+2021,R16,Novak Djokovic,Cristian Garin,0.9516602558031522,1
+2021,R128,Taylor Fritz,Brandon Nakashima,0.7207773699778233,1
+2021,R128,Denis Kudla,Alejandro Davidovich Fokina,0.3710984922088473,0
+2021,R128,Cameron Norrie,Lucas Pouille,0.6031612754288938,1
+2021,R128,Tennys Sandgren,Norbert Gombos,0.649848354335355,1
+2021,R128,Vasek Pospisil,Roberto Carballes Baena,0.7109705251869417,1
+2021,R128,Marc Polmans,Yen-Hsun Lu,0.3153517008079563,0
+2021,R128,Oscar Otte,Arthur Rinderknech,0.43338378150422047,0
+2021,R128,Kei Nishikori,Alexei Popyrin,0.8076838738699502,1
+2021,R128,Pedro Martinez,Stefano Travaglia,0.5328077933495792,1
+2021,R128,Gianluca Mager,Juan Ignacio Londero,0.6568802956408596,1
+2021,R128,Dusan Lajovic,Gilles Simon,0.354966842725307,0
+2021,R128,Soonwoo Kwon,Daniel Masur,0.7177751211553383,1
+2021,R128,Miomir Kecmanovic,Facundo Bagnis,0.708055556094118,1
+2021,R128,Steve Johnson,Dennis Novak,0.6468586147761719,1
+2021,R128,Cristian Garin,Bernabe Zapata Miralles,0.6979338694383626,1
+2021,R128,Antoine Hoang,Zhizhen Zhang,0.451349743372031,0
+2021,R128,Daniel Evans,Feliciano Lopez,0.4704614139090451,0
+2021,R128,Nick Kyrgios,Ugo Humbert,0.4194079293020109,0
+2021,R128,Jeremy Chardy,Aslan Karatsev,0.4406836977232388,0
+2021,R128,Marton Fucsovics,Jannik Sinner,0.49305527138463295,0
+2021,R128,Grigor Dimitrov,Fernando Verdasco,0.6124178408078775,1
+2021,R128,Jordan Thompson,Casper Ruud,0.31065467752849085,0
+2021,R128,Sam Querrey,Pablo Carreno Busta,0.5934489893687546,1
+2021,R128,Denis Shapovalov,Philipp Kohlschreiber,0.5002525084274151,1
+2021,R128,Diego Schwartzman,Benoit Paire,0.5835244716195104,1
+2021,R128,Roberto Bautista Agut,John Millman,0.7564227286753308,1
+2021,R128,Matteo Berrettini,Guido Pella,0.9097908755729709,1
+2021,R128,Roger Federer,Adrian Mannarino,0.916853660007319,1
+2021,R128,Andrey Rublev,Federico Delbonis,0.9025556506528258,1
+2021,R128,Alexander Zverev,Tallon Griekspoor,0.8959075929971038,1
+2021,R128,Frances Tiafoe,Stefanos Tsitsipas,0.20762279996145705,0
+2021,R128,Daniil Medvedev,Jan-Lennard Struff,0.7956706001020872,1
+2022,R128,Casper Ruud,Albert Ramos-Vinolas,0.7607935059703165,1
+2022,R128,Ugo Humbert,Tomas Martin Etcheverry,0.7940563260206824,1
+2022,R128,Novak Djokovic,Soonwoo Kwon,0.9649492428140342,1
+2022,R128,Jaume Munar,Thiago Monteiro,0.26430784935135515,0
+2022,R128,Mikael Ymer,Daniel Altmaier,0.606465184027336,1
+2022,R128,Thanasi Kokkinakis,Kamil Majchrzak,0.5676995436327519,1
+2022,R128,Oscar Otte,Peter Gojowczyk,0.7653669198351752,1
+2022,R128,Christian Harrison,Jay Clarke,0.7088889415343305,1
+2022,R128,John Isner,Enzo Couacaud,0.8528875865574006,1
+2022,R128,Andy Murray,James Duckworth,0.9146124317056477,1
+2022,R128,Stefanos Tsitsipas,Alexander Ritschard,0.9189516524598694,1
+2022,R128,Jordan Thompson,Roberto Carballes Baena,0.7075182951438523,1
+2022,R64,Steve Johnson,Ryan Peniston,0.47743516276434744,0
+2022,R64,Cameron Norrie,Jaume Munar,0.8716490554427744,1
+2022,R64,Alexander Bublik,Dusan Lajovic,0.7762438586920769,1
+2022,R64,Frances Tiafoe,Maximilian Marterer,0.7643913488700259,1
+2022,R64,David Goffin,Sebastian Baez,0.6643989165334606,1
+2022,R128,Denis Shapovalov,Arthur Rinderknech,0.6355499146599171,1
+2022,R128,Diego Schwartzman,Stefan Kozlov,0.6872771432884553,1
+2022,R128,Tim van Rijthoven,Federico Delbonis,0.9054250507390774,1
+2022,R128,Quentin Halys,Benoit Paire,0.28102648451614687,0
+2022,R128,Nikoloz Basilashvili,Lukas Rosol,0.6784164766271973,1
+2022,R128,Jenson Brooksby,Mikhail Kukushkin,0.6017156255904796,1
+2022,R128,Benjamin Bonzi,Zdenek Kolar,0.7796117349002107,1
+2022,R64,Miomir Kecmanovic,Alejandro Tabilo,0.6819629256440605,1
+2022,R64,Novak Djokovic,Thanasi Kokkinakis,0.9585175246664771,1
+2022,R128,Rafael Nadal,Francisco Cerundolo,0.9451093574621788,1
+2022,R128,Ricardas Berankis,Sam Querrey,0.2886131733994065,0
+2022,R64,Botic van de Zandschulp,Emil Ruusuvuori,0.547220622608386,1
+2022,R64,Richard Gasquet,Mackenzie McDonald,0.6155369627860826,1
+2022,R64,Taylor Fritz,Alastair Gray,0.9273966853478409,1
+2022,R64,Alex Molcan,Marcos Giron,0.4639143695977606,0
+2022,R64,Jason Kubler,Dennis Novak,0.47027644143713987,0
+2022,R128,Mackenzie McDonald,Nuno Borges,0.6787165721811914,1
+2022,R128,Taylor Fritz,Lorenzo Musetti,0.8012677715370163,1
+2022,R128,Alexander Bublik,Marton Fucsovics,0.523571855001673,1
+2022,R128,Maximilian Marterer,Aljaz Bedene,0.28718681840109184,0
+2022,R128,Frances Tiafoe,Andrea Vavassori,0.7119115653471678,1
+2022,R128,Jason Kubler,Daniel Evans,0.23768032677283782,0
+2022,R128,Dennis Novak,Facundo Bagnis,0.598813882625796,1
+2022,R64,Jenson Brooksby,Benjamin Bonzi,0.3917878470483997,0
+2022,R64,Cristian Garin,Hugo Grenier,0.7276086341383106,1
+2022,R64,Jiri Vesely,Alejandro Davidovich Fokina,0.4939863437766101,0
+2022,R64,Tommy Paul,Adrian Mannarino,0.4765219897195163,0
+2022,R128,Ryan Peniston,Henri Laaksonen,0.698994863438427,1
+2022,R128,Adrian Mannarino,Max Purcell,0.6432558375513532,1
+2022,R128,Tommy Paul,Fernando Verdasco,0.5779645462113493,1
+2022,R128,Steve Johnson,Grigor Dimitrov,0.3239277117047968,0
+2022,R128,Roberto Bautista Agut,Attila Balazs,0.8566899535518131,1
+2022,R128,Carlos Alcaraz,Jan-Lennard Struff,0.8115409824050297,1
+2022,R128,Jannik Sinner,Stan Wawrinka,0.3639569151729306,0
+2022,R128,Brandon Nakashima,Nicola Kuhn,0.726383780332069,1
+2022,R128,Daniel Elahi Galan,Dominik Koepfer,0.5054381252272063,1
+2022,R128,Reilly Opelka,Carlos Taberner,0.5145273182789369,1
+2022,R128,Miomir Kecmanovic,John Millman,0.549733746208434,1
+2022,R128,Tallon Griekspoor,Fabio Fognini,0.3859738652269163,0
+2022,R128,Nick Kyrgios,Paul Jubb,0.9471649298225944,1
+2022,R128,Filip Krajinovic,Jiri Lehecka,0.7549503714263972,1
+2022,R128,Cristian Garin,Elias Ymer,0.6351516162572175,1
+2022,R128,Hugo Grenier,Marc-Andrea Huesler,0.497271828981439,0
+2022,R128,Alejandro Tabilo,Laslo Djere,0.4288893161018584,0
+2022,R128,Alejandro Davidovich Fokina,Hubert Hurkacz,0.14952305979177427,0
+2022,R128,Botic van de Zandschulp,Feliciano Lopez,0.5681691538367404,1
+2022,R128,Jiri Vesely,Federico Coria,0.5791470652915285,1
+2022,R128,Hugo Gaston,Alexei Popyrin,0.7066132887197524,1
+2022,R128,Lorenzo Sonego,Denis Kudla,0.6018703301065834,1
+2022,R128,Cameron Norrie,Pablo Andujar,0.8475451226109298,1
+2022,R128,Richard Gasquet,Joao Sousa,0.7809891052132865,1
+2022,R128,Emil Ruusuvuori,Yoshihito Nishioka,0.7068578283746181,1
+2022,R128,Dusan Lajovic,Pablo Carreno Busta,0.27505808620820216,0
+2022,R128,Sebastian Baez,Taro Daniel,0.7468318840413369,1
+2022,R128,David Goffin,Radu Albot,0.7867873588285857,1
+2022,R128,Jack Sock,Bernabe Zapata Miralles,0.6369087726235909,1
+2022,R128,Maxime Cressy,Felix Auger-Aliassime,0.2466562307552977,0
+2022,R16,Novak Djokovic,Tim van Rijthoven,0.8906962092700133,1
+2022,R16,Jannik Sinner,Carlos Alcaraz,0.22923748472769792,0
+2022,R64,Alex de Minaur,Jack Draper,0.5591771667799912,1
+2022,R64,Liam Broady,Diego Schwartzman,0.2549343194145859,0
+2022,R128,Marcos Giron,Holger Rune,0.5632362344402383,1
+2022,R128,Alex Molcan,Pedro Martinez,0.5394055823298888,1
+2022,R128,Alastair Gray,Chun-Hsin Tseng,0.356345487775581,0
+2022,R64,Stefanos Tsitsipas,Jordan Thompson,0.8232453070058454,1
+2022,R64,Jack Sock,Maxime Cressy,0.4158134870159142,0
+2022,QF,Cameron Norrie,David Goffin,0.5160692580067597,1
+2022,QF,Nick Kyrgios,Cristian Garin,0.7883748731535042,1
+2022,QF,Rafael Nadal,Taylor Fritz,0.8183284426317494,1
+2022,SF,Novak Djokovic,Cameron Norrie,0.9131497969444754,1
+2022,R64,Lorenzo Sonego,Hugo Gaston,0.5066731174404103,1
+2022,R64,Rafael Nadal,Ricardas Berankis,0.9580334120685161,1
+2022,R32,Novak Djokovic,Miomir Kecmanovic,0.9538666086194089,1
+2022,R32,Tim van Rijthoven,Nikoloz Basilashvili,0.7001043474000453,1
+2022,R64,Nikoloz Basilashvili,Quentin Halys,0.8092007828732414,1
+2022,R64,Tim van Rijthoven,Reilly Opelka,0.7937914621876044,1
+2022,R128,Alex de Minaur,Hugo Dellien,0.8305375191966958,1
+2022,R128,Jack Draper,Zizou Bergs,0.796860996980739,1
+2022,R128,Liam Broady,Lukas Klein,0.5057938457733354,1
+2022,R64,Carlos Alcaraz,Tallon Griekspoor,0.7902460146198185,1
+2022,R64,Ugo Humbert,Casper Ruud,0.3994641601061028,0
+2022,R32,Alex de Minaur,Liam Broady,0.8215749270828465,1
+2022,R32,Brandon Nakashima,Daniel Elahi Galan,0.6084394566323742,1
+2022,R32,Nick Kyrgios,Stefanos Tsitsipas,0.4711900872748205,0
+2022,R32,Jason Kubler,Jack Sock,0.28682757452205404,0
+2022,R32,Taylor Fritz,Alex Molcan,0.7456195460591744,1
+2022,R64,John Isner,Andy Murray,0.2951163589703858,0
+2022,R32,Carlos Alcaraz,Oscar Otte,0.5971797326225998,1
+2022,R16,Cameron Norrie,Tommy Paul,0.6101969203783749,1
+2022,R64,Brandon Nakashima,Denis Shapovalov,0.43015225397320284,0
+2022,R16,David Goffin,Frances Tiafoe,0.6606203510187608,1
+2022,R32,David Goffin,Ugo Humbert,0.6276535930833189,1
+2022,QF,Novak Djokovic,Jannik Sinner,0.9551691905809706,1
+2022,R16,Rafael Nadal,Botic van de Zandschulp,0.9038916972724317,1
+2022,R64,Nick Kyrgios,Filip Krajinovic,0.7338571332635868,1
+2022,R32,Cameron Norrie,Steve Johnson,0.6882392666150461,1
+2022,R32,Frances Tiafoe,Alexander Bublik,0.3802230634803586,0
+2022,R16,Cristian Garin,Alex de Minaur,0.3315176357079638,0
+2022,R64,Oscar Otte,Christian Harrison,0.8228395218473445,1
+2022,R32,Jannik Sinner,John Isner,0.302099946649091,0
+2022,F,Novak Djokovic,Nick Kyrgios,0.8572425381642356,1
+2022,R16,Taylor Fritz,Jason Kubler,0.8754659196722696,1
+2022,R16,Nick Kyrgios,Brandon Nakashima,0.7808915981712329,1
+2022,R32,Tommy Paul,Jiri Vesely,0.614907793823919,1
+2022,R32,Cristian Garin,Jenson Brooksby,0.4910275104261395,0
+2022,R32,Botic van de Zandschulp,Richard Gasquet,0.42073870915793254,0
+2022,R32,Rafael Nadal,Lorenzo Sonego,0.9097523124955303,1
+2022,R64,Jannik Sinner,Mikael Ymer,0.5373222813703552,1
+2023,R128,Daniil Medvedev,Arthur Fery,0.9331399764401365,1
+2023,R128,Marton Fucsovics,Tallon Griekspoor,0.4050802482732509,0
+2023,R128,Adrian Mannarino,Alexander Shevchenko,0.7379558359023131,1
+2023,R128,Marcos Giron,Hugo Dellien,0.6289881958435345,1
+2023,R128,Roberto Carballes Baena,Matteo Arnaldi,0.5019580449929649,1
+2023,R128,Holger Rune,George Loffhagen,0.8992752908950054,1
+2023,R128,Botic van de Zandschulp,Zhizhen Zhang,0.5403318471899443,1
+2023,R128,Jannik Sinner,Juan Manuel Cerundolo,0.8570730914398901,1
+2023,R128,Stefanos Tsitsipas,Dominic Thiem,0.6868801870551742,1
+2023,R128,Andy Murray,Ryan Peniston,0.8561573151895597,1
+2023,R128,Laslo Djere,Maxime Cressy,0.46385695181834186,0
+2023,R128,Cameron Norrie,Tomas Machac,0.7881620991565378,1
+2023,R128,Tommy Paul,Shintaro Mochizuki,0.890680357012705,1
+2023,R128,Milos Raonic,Dennis Novak,0.9042936424943776,1
+2023,R128,Jiri Lehecka,Sebastian Ofner,0.5124856791897606,1
+2023,R128,Francisco Cerundolo,Nuno Borges,0.8438936899938191,1
+2023,R128,Daniel Elahi Galan,Yoshihito Nishioka,0.40210309510620146,0
+2023,R128,Diego Schwartzman,Miomir Kecmanovic,0.4702859785840338,0
+2023,R128,Aleksandar Vukic,Daniel Altmaier,0.5125309032244864,1
+2023,R128,Quentin Halys,Daniel Evans,0.40552841840007964,0
+2023,R128,Mikael Ymer,Alex Molcan,0.4435969632757927,0
+2023,R128,Oscar Otte,Dominik Koepfer,0.5837096083305705,1
+2023,R128,Taylor Fritz,Yannick Hanfmann,0.609211701810226,1
+2023,R128,Andrey Rublev,Max Purcell,0.8682186348630928,1
+2023,R128,Casper Ruud,Laurent Lokoli,0.867899678313061,1
+2023,R128,Liam Broady,Constant Lestienne,0.47771589469059894,0
+2023,R128,Gregoire Barrere,Lloyd Harris,0.5405204500020523,1
+2023,R128,Alejandro Davidovich Fokina,Arthur Fils,0.4913420640027798,0
+2023,R128,Grigor Dimitrov,Sho Shimabukuro,0.8587249775165375,1
+2023,R128,Ilya Ivashka,Federico Coria,0.6756255864230948,1
+2023,R128,Dominic Stricker,Alexei Popyrin,0.6981336882182257,1
+2023,R128,Guido Pella,Borna Coric,0.31941106472835684,0
+2023,R128,Lorenzo Musetti,Juan Pablo Varillas,0.6132579595581138,1
+2023,R128,Christopher Eubanks,Thiago Monteiro,0.7373820879218689,1
+2023,R128,Christopher O'Connell,Hamad Medjedovic,0.7342068410562764,1
+2023,R128,Jiri Vesely,Sebastian Korda,0.25151017034600665,0
+2023,R128,Ben Shelton,Taro Daniel,0.5260145504635596,1
+2023,R128,Stan Wawrinka,Emil Ruusuvuori,0.5278780397668619,1
+2023,R128,Jordan Thompson,Brandon Nakashima,0.5233997084153486,1
+2023,R128,Novak Djokovic,Pedro Cachin,0.9784447732956271,1
+2023,R64,Carlos Alcaraz,Alexandre Muller,0.9145251285492233,1
+2023,R128,Aslan Karatsev,Luca Van Assche,0.5945389947469104,1
+2023,R128,Tomas Barrios Vera,Sebastian Baez,0.32131784319656265,0
+2023,R128,David Goffin,Fabian Marozsan,0.7077013488397826,1
+2023,R128,Alexander Bublik,Mackenzie McDonald,0.671542226011614,1
+2023,R128,J.J. Wolf,Enzo Couacaud,0.6725970857474501,1
+2023,R128,Maximilian Marterer,Borna Gojo,0.4361856134236609,0
+2023,R128,Michael Mmoh,Felix Auger-Aliassime,0.14208754021596984,0
+2023,R64,Frances Tiafoe,Dominic Stricker,0.6923653275908823,1
+2023,R64,Nicolas Jarry,Jason Kubler,0.625551829323602,1
+2023,R64,Alexander Zverev,Yosuke Watanuki,0.7910076803176308,1
+2023,R64,Matteo Berrettini,Alex de Minaur,0.6816523572216887,1
+2023,R64,Alejandro Davidovich Fokina,Botic van de Zandschulp,0.4588491333319995,0
+2023,R64,Grigor Dimitrov,Ilya Ivashka,0.7071381939109668,1
+2023,R64,Holger Rune,Roberto Carballes Baena,0.8122073093508545,1
+2023,R64,Jannik Sinner,Diego Schwartzman,0.792349023975051,1
+2023,R64,Stefanos Tsitsipas,Andy Murray,0.4062878759161235,0
+2023,R64,Laslo Djere,Ben Shelton,0.6139597063084123,1
+2023,R64,Christopher O'Connell,Jiri Vesely,0.45674128598866665,0
+2023,R128,Denis Shapovalov,Radu Albot,0.6949549378788801,1
+2023,R128,Roman Safiullin,Roberto Bautista Agut,0.19679601126855084,0
+2023,R128,Corentin Moutet,Richard Gasquet,0.3507073647368712,0
+2023,R128,Harold Mayot,Benjamin Bonzi,0.21852928312040307,0
+2023,R64,Daniil Medvedev,Adrian Mannarino,0.745543123502429,1
+2023,R32,Jannik Sinner,Quentin Halys,0.8374834956340231,1
+2023,R64,Marton Fucsovics,Marcos Giron,0.7086147446042729,1
+2023,R64,Jiri Lehecka,Francisco Cerundolo,0.31152780458352325,0
+2023,R64,Tommy Paul,Milos Raonic,0.3296547342715115,0
+2023,R64,Christopher Eubanks,Cameron Norrie,0.36087055142826896,0
+2023,R32,Alexander Bublik,Maximilian Marterer,0.8682532327318488,1
+2023,R32,Hubert Hurkacz,Lorenzo Musetti,0.6858602687386318,1
+2023,R32,Novak Djokovic,Stan Wawrinka,0.9464812141854975,1
+2023,R16,Carlos Alcaraz,Matteo Berrettini,0.576075343224191,1
+2023,R64,Quentin Halys,Aleksandar Vukic,0.5547378279120293,1
+2023,R64,Daniel Elahi Galan,Oscar Otte,0.4000127018862974,0
+2023,R64,Mikael Ymer,Taylor Fritz,0.263062325207795,0
+2023,R64,Guido Pella,Harold Mayot,0.6924702989757114,1
+2023,R64,Roman Safiullin,Corentin Moutet,0.45756381607669755,0
+2023,R64,Denis Shapovalov,Gregoire Barrere,0.5292442566414356,1
+2023,R64,Liam Broady,Casper Ruud,0.25112598960323207,0
+2023,R64,Andrey Rublev,Aslan Karatsev,0.8452599642215768,1
+2023,R128,Jaume Munar,John Isner,0.14290510516677998,0
+2023,R128,Jan Choinski,Dusan Lajovic,0.2050971559214616,0
+2023,R128,Hubert Hurkacz,Albert Ramos-Vinolas,0.8792432245556748,1
+2023,R128,Tomas Martin Etcheverry,Bernabe Zapata Miralles,0.6358520950659268,1
+2023,R64,Hubert Hurkacz,Jan Choinski,0.9353463259986194,1
+2023,R64,Stan Wawrinka,Tomas Martin Etcheverry,0.6429801065771733,1
+2023,R64,Novak Djokovic,Jordan Thompson,0.9594752188832667,1
+2023,R32,Carlos Alcaraz,Nicolas Jarry,0.8595967513107096,1
+2023,R32,Matteo Berrettini,Alexander Zverev,0.6132907037673443,1
+2023,R32,Grigor Dimitrov,Frances Tiafoe,0.43893871772440185,0
+2023,R32,Holger Rune,Alejandro Davidovich Fokina,0.7284530760602304,1
+2023,R32,Daniil Medvedev,Marton Fucsovics,0.7623490675875773,1
+2023,R32,Jiri Lehecka,Tommy Paul,0.37895453933095696,0
+2023,R32,Christopher Eubanks,Christopher O'Connell,0.6472113985284677,1
+2023,R32,Stefanos Tsitsipas,Laslo Djere,0.7681349734593473,1
+2023,QF,Carlos Alcaraz,Holger Rune,0.7689950512999866,1
+2023,R64,David Goffin,Tomas Barrios Vera,0.8057199771459622,1
+2023,R64,Alexander Bublik,J.J. Wolf,0.7508240307666895,1
+2023,R64,Maximilian Marterer,Michael Mmoh,0.45324405939054313,0
+2023,R64,Lorenzo Musetti,Jaume Munar,0.7778266467977628,1
+2023,SF,Novak Djokovic,Jannik Sinner,0.8868486640453845,1
+2023,F,Carlos Alcaraz,Novak Djokovic,0.24013494275216318,0
+2023,R16,Novak Djokovic,Hubert Hurkacz,0.9026698227743236,1
+2023,R16,Jannik Sinner,Daniel Elahi Galan,0.8827059697801813,1
+2023,R16,Holger Rune,Grigor Dimitrov,0.5351291733117332,1
+2023,R16,Daniil Medvedev,Jiri Lehecka,0.8202647110744743,1
+2023,R16,Christopher Eubanks,Stefanos Tsitsipas,0.3777194048420928,0
+2023,R16,Andrey Rublev,Alexander Bublik,0.593193676450112,1
+2023,R16,Roman Safiullin,Denis Shapovalov,0.34314244960521234,0
+2023,R32,Roman Safiullin,Guido Pella,0.48013648275964554,0
+2023,R128,Frances Tiafoe,Yibing Wu,0.7874469332859899,1
+2023,R128,Jason Kubler,Ugo Humbert,0.4449266363363673,0
+2023,R128,Nicolas Jarry,Marco Cecchinato,0.7523936396133537,1
+2023,R128,Alexander Zverev,Gijs Brouwer,0.8515313165009747,1
+2023,R128,Yosuke Watanuki,Marc-Andrea Huesler,0.6398786125222262,1
+2023,R128,Matteo Berrettini,Lorenzo Sonego,0.792544697288259,1
+2023,R128,Alex de Minaur,Kimmer Coppejans,0.9042187155234613,1
+2023,R128,Carlos Alcaraz,Jeremy Chardy,0.889474410951324,1
+2023,R128,Alexandre Muller,Arthur Rinderknech,0.5340122645338923,1
+2023,QF,Daniil Medvedev,Christopher Eubanks,0.76855879432384,1
+2023,QF,Jannik Sinner,Roman Safiullin,0.831328513994592,1
+2023,QF,Novak Djokovic,Andrey Rublev,0.8659850298676322,1
+2023,SF,Carlos Alcaraz,Daniil Medvedev,0.6069606370211541,1
+2023,R32,Andrey Rublev,David Goffin,0.720976117315358,1
+2023,R32,Denis Shapovalov,Liam Broady,0.7113919310484039,1
+2023,R32,Daniel Elahi Galan,Mikael Ymer,0.33475884064832845,0
+2024,R128,Matteo Berrettini,Marton Fucsovics,0.7125905104169604,1
+2024,R128,Brandon Nakashima,Sebastian Baez,0.5981388785820719,1
+2024,R128,Gael Monfils,Adrian Mannarino,0.5298648208588934,1
+2024,R128,Tommy Paul,Pedro Martinez,0.8809492482370258,1
+2024,R128,Otto Virtanen,Max Purcell,0.40514032646609915,0
+2024,R128,Jannik Sinner,Yannick Hanfmann,0.9406231883020824,1
+2024,R128,Tallon Griekspoor,Daniel Elahi Galan,0.7799687515795343,1
+2024,R128,Stan Wawrinka,Charles Broom,0.8071148158181124,1
+2024,R128,Alexander Zverev,Roberto Carballes Baena,0.8767728911109287,1
+2024,R128,Adam Walton,Federico Coria,0.4163916503413188,0
+2024,R128,Jacob Fearnley,Alejandro Moro Canas,0.3718539972290884,0
+2024,R128,Ben Shelton,Mattia Bellucci,0.6761031339445842,1
+2024,R128,Zhizhen Zhang,Maxime Janvier,0.805710803385608,1
+2024,R128,Jordan Thompson,Pavel Kotov,0.5873895805919168,1
+2024,R128,Frances Tiafoe,Matteo Arnaldi,0.5723161011779392,1
+2024,R128,Lorenzo Sonego,Mariano Navone,0.6228018274588351,1
+2024,R128,Roberto Bautista Agut,Maximilian Marterer,0.811869697000522,1
+2024,R128,Botic van de Zandschulp,Liam Broady,0.5814155140184614,1
+2024,R128,Alexander Bublik,Jakub Mensik,0.6278198604906975,1
+2024,R128,Aleksandar Vukic,Sebastian Ofner,0.5476303194377997,1
+2024,R128,Ugo Humbert,Alexander Shevchenko,0.6711025278683732,1
+2024,R128,Carlos Alcaraz,Mark Lajal,0.9685689237855467,1
+2024,R128,Daniel Altmaier,Arthur Fery,0.5624044326840735,1
+2024,R128,Alexandre Muller,Hugo Gaston,0.4991075969799904,0
+2024,R128,Novak Djokovic,Vit Kopriva,0.980883491252356,1
+2024,R64,Arthur Fils,Hubert Hurkacz,0.1653820244839414,0
+2024,R64,Alex de Minaur,Jaume Munar,0.9135055206745795,1
+2024,R64,Jannik Sinner,Matteo Berrettini,0.7093297213120492,1
+2024,R64,Jan-Lennard Struff,Zhizhen Zhang,0.6748216527040986,1
+2024,R128,Francisco Comesana,Andrey Rublev,0.06843204013374375,0
+2024,R128,Tomas Martin Etcheverry,Luca Nardi,0.5254407937068188,1
+2024,R128,Alexei Popyrin,Thiago Monteiro,0.46430842681122414,0
+2024,R128,Jaume Munar,Billy Harris,0.2755915278660471,0
+2024,R128,Alex de Minaur,James Duckworth,0.8237822489664346,1
+2024,R128,Hubert Hurkacz,Radu Albot,0.9021271787354234,1
+2024,R128,Borna Coric,Felipe Meligeni Alves,0.6831625036254582,1
+2024,R128,Casper Ruud,Alex Bolt,0.828979293824905,1
+2024,R128,Giovanni Mpetshi Perricard,Sebastian Korda,0.1438971372590808,0
+2024,R128,Thiago Seyboth Wild,Paul Jubb,0.6162649232319046,1
+2024,R128,Yoshihito Nishioka,Nuno Borges,0.5989746679397737,1
+2024,R128,Alejandro Tabilo,Daniel Evans,0.7427374104888176,1
+2024,R64,Emil Ruusuvuori,Stefanos Tsitsipas,0.2713298674419615,0
+2024,R64,Cameron Norrie,Jack Draper,0.29732931978310045,0
+2024,R64,Lucas Pouille,Thanasi Kokkinakis,0.505949018557312,1
+2024,R64,Taylor Fritz,Arthur Rinderknech,0.8603037890504002,1
+2024,R128,Roman Safiullin,Francisco Cerundolo,0.42006998954109126,0
+2024,R128,Karen Khachanov,Aslan Karatsev,0.7346088598380205,1
+2024,R128,Quentin Halys,Christopher Eubanks,0.4387569046481841,0
+2024,R128,Taylor Fritz,Christopher O'Connell,0.7648157594935727,1
+2024,R128,Cameron Norrie,Facundo Diaz Acosta,0.66702858450939,1
+2024,R128,Flavio Cobolli,Rinky Hijikata,0.5370959386405139,1
+2024,R128,Arthur Cazaux,Zizou Bergs,0.40194808754245215,0
+2024,R128,Lloyd Harris,Alex Michelsen,0.4183101438850506,0
+2024,R128,Holger Rune,Soonwoo Kwon,0.7108092637078636,1
+2024,R128,Stefanos Tsitsipas,Taro Daniel,0.9038676245973825,1
+2024,R128,Arthur Fils,Dominic Stricker,0.49411112183016026,0
+2024,R64,Francisco Comesana,Adam Walton,0.4695618484537913,0
+2024,R32,Daniil Medvedev,Jan-Lennard Struff,0.7058050965154801,1
+2024,R32,Holger Rune,Quentin Halys,0.7128588652214684,1
+2024,R32,Lorenzo Musetti,Francisco Comesana,0.8941974991571233,1
+2024,R32,Roberto Bautista Agut,Fabio Fognini,0.6154186362651769,1
+2024,R64,Miomir Kecmanovic,Tallon Griekspoor,0.29273198759310853,0
+2024,R64,Tommy Paul,Otto Virtanen,0.8610990521584074,1
+2024,R64,Alexander Bublik,Arthur Cazaux,0.8081979049449303,1
+2024,R64,Roberto Bautista Agut,Lorenzo Sonego,0.6212096922170951,1
+2024,R64,Carlos Alcaraz,Aleksandar Vukic,0.9029634756841065,1
+2024,R64,Daniil Medvedev,Alexandre Muller,0.8700472601018777,1
+2024,R128,Luciano Darderi,Jan Choinski,0.7242630636834706,1
+2024,R128,Lorenzo Musetti,Constant Lestienne,0.8964565607352869,1
+2024,R64,Frances Tiafoe,Borna Coric,0.5706831126248769,1
+2024,R64,Fabio Fognini,Casper Ruud,0.3866017569396785,0
+2024,R128,Thanasi Kokkinakis,Felix Auger-Aliassime,0.31949417354692217,0
+2024,R64,Giovanni Mpetshi Perricard,Yoshihito Nishioka,0.4655399277765418,0
+2024,SF,Novak Djokovic,Lorenzo Musetti,0.907645714263381,1
+2024,SF,Carlos Alcaraz,Daniil Medvedev,0.6622830788291098,1
+2024,QF,Lorenzo Musetti,Taylor Fritz,0.41641815872453025,0
+2024,R64,Holger Rune,Thiago Seyboth Wild,0.6980670043396882,1
+2024,R64,Quentin Halys,Karen Khachanov,0.26166085239895714,0
+2024,R64,Gael Monfils,Stan Wawrinka,0.572976272001708,1
+2024,R64,Alejandro Tabilo,Flavio Cobolli,0.6456698588455129,1
+2024,R64,Novak Djokovic,Jacob Fearnley,0.987387454832953,1
+2024,R64,Roman Safiullin,Tomas Machac,0.4491233474833378,0
+2024,R128,Jack Draper,Elias Ymer,0.8839163206317927,1
+2024,R128,Marcos Giron,Henry Searle,0.7945180989448746,1
+2024,R64,Denis Shapovalov,Daniel Altmaier,0.7453449323342541,1
+2024,R64,Grigor Dimitrov,Juncheng Shang,0.7652685729559315,1
+2024,R64,Ben Shelton,Lloyd Harris,0.5011080902513114,1
+2024,R32,Novak Djokovic,Alexei Popyrin,0.9729662491852242,1
+2024,R32,Alexander Zverev,Cameron Norrie,0.7678751066051541,1
+2024,R32,Arthur Fils,Roman Safiullin,0.5082488424362258,1
+2024,R32,Giovanni Mpetshi Perricard,Emil Ruusuvuori,0.35735203973505164,0
+2024,R64,Ugo Humbert,Botic van de Zandschulp,0.6587170213506728,1
+2024,R32,Ben Shelton,Denis Shapovalov,0.3462167160500604,0
+2024,R32,Ugo Humbert,Brandon Nakashima,0.5899896531031072,1
+2024,R64,Alexei Popyrin,Tomas Martin Etcheverry,0.5251778157504431,1
+2024,R16,Jannik Sinner,Ben Shelton,0.9426776706434309,1
+2024,R16,Carlos Alcaraz,Ugo Humbert,0.8735990742456757,1
+2024,R32,Taylor Fritz,Alejandro Tabilo,0.6418906763197616,1
+2024,R64,Brandon Nakashima,Jordan Thompson,0.39170851372065907,0
+2024,R32,Carlos Alcaraz,Frances Tiafoe,0.8835936456380399,1
+2024,R32,Tommy Paul,Alexander Bublik,0.6466978976312818,1
+2024,R64,Alexander Zverev,Marcos Giron,0.8055060568887,1
+2024,F,Carlos Alcaraz,Novak Djokovic,0.3199552536604964,0
+2024,R16,Novak Djokovic,Holger Rune,0.9204573038925667,1
+2024,QF,Daniil Medvedev,Jannik Sinner,0.32480555984412046,0
+2024,QF,Carlos Alcaraz,Tommy Paul,0.7500174282891869,1
+2024,R64,Lorenzo Musetti,Luciano Darderi,0.7360100350700283,1
+2024,R16,Lorenzo Musetti,Giovanni Mpetshi Perricard,0.79815370960813,1
+2024,R16,Alex de Minaur,Arthur Fils,0.8286452744654628,1
+2024,R16,Taylor Fritz,Alexander Zverev,0.4009415003796446,0
+2024,R128,Jan-Lennard Struff,Fabian Marozsan,0.7665854424579095,1
+2024,R128,Fabio Fognini,Luca Van Assche,0.6818498692046012,1
+2024,R128,Tomas Machac,David Goffin,0.473806805728682,0
+2024,R128,Miomir Kecmanovic,Sumit Nagal,0.6077067289994108,1
+2024,R128,Denis Shapovalov,Nicolas Jarry,0.4785818712263647,0
+2024,R128,Daniil Medvedev,Aleksandar Kovacevic,0.9285074160822555,1
+2024,R128,Emil Ruusuvuori,Mackenzie McDonald,0.5179625517054832,1
+2024,R128,Lucas Pouille,Laslo Djere,0.5920628284466052,1
+2024,R16,Tommy Paul,Roberto Bautista Agut,0.663415836856036,1
+2024,R128,Grigor Dimitrov,Dusan Lajovic,0.8268976228297171,1
+2024,R128,Juncheng Shang,Cristian Garin,0.39912963860694267,0
+2024,R128,Arthur Rinderknech,Kei Nishikori,0.15753928209326076,0
+2024,R32,Grigor Dimitrov,Gael Monfils,0.6515477656018104,1
+2024,R16,Daniil Medvedev,Grigor Dimitrov,0.6349121242189136,1
+2024,R32,Jannik Sinner,Miomir Kecmanovic,0.927941746977127,1
+2025,R128,Jenson Brooksby,Tallon Griekspoor,0.3993415780901359,0
+2025,R128,Kamil Majchrzak,Matteo Berrettini,0.12411332718287638,0
+2025,R128,Mattia Bellucci,Oliver Crawford,0.5715676063418013,1
+2025,R128,Jesper de Jong,Christopher Eubanks,0.3327989877752935,0
+2025,R128,Daniel Evans,Jay Clarke,0.8234098799119903,1
+2025,R128,Marton Fucsovics,Aleksandar Kovacevic,0.7769965456833001,1
+2025,R128,Marcos Giron,Camilo Ugo Carabelli,0.8138531742746589,1
+2025,R128,Rinky Hijikata,David Goffin,0.23880171848581178,0
+2025,R128,August Holmgren,Quentin Halys,0.31347618861670024,0
+2025,R128,Fabian Marozsan,James McCabe,0.7433005150019534,1
+2025,R128,Pedro Martinez,George Loffhagen,0.6366840453844151,1
+2025,R128,Corentin Moutet,Francisco Comesana,0.6377532190344233,1
+2025,R128,Reilly Opelka,Alexander Shevchenko,0.694882013186191,1
+2025,R128,Jack Pinnington Jones,Tomas Martin Etcheverry,0.28884910806076736,0
+2025,R128,Lorenzo Sonego,Jaime Faria,0.6921430658329885,1
+2025,R128,Aleksandar Vukic,Chun-Hsin Tseng,0.700535637463152,1
+2025,R128,Carlos Alcaraz,Fabio Fognini,0.9618051413662009,1
+2025,R128,Novak Djokovic,Alexandre Muller,0.954969842706255,1
+2025,R128,Nikoloz Basilashvili,Lorenzo Musetti,0.13939695330347868,0
+2025,R128,Ben Shelton,Alex Bolt,0.726775391150815,1
+2025,R128,Alex de Minaur,Roberto Carballes Baena,0.8718976168082115,1
+2025,R128,Tommy Paul,Johannus Monday,0.9141484351186314,1
+2025,R128,Jakub Mensik,Hugo Gaston,0.6787920221369883,1
+2025,R128,Gael Monfils,Ugo Humbert,0.5029394147859667,1
+2025,R128,Grigor Dimitrov,Yoshihito Nishioka,0.8153415995226836,1
+2025,R128,Tomas Machac,Damir Dzumhur,0.6672013742671183,1
+2025,R128,Mariano Navone,Denis Shapovalov,0.32263526654943114,0
+2025,R128,Jaume Munar,Alexander Bublik,0.1897050285426767,0
+2025,R128,Brandon Nakashima,Yunchaokete Bu,0.7956971049396616,1
+2025,R128,Miomir Kecmanovic,Alex Michelsen,0.32069958392709946,0
+2025,R128,Arthur Cazaux,Adam Walton,0.5721886067352473,1
+2025,R128,Jannik Sinner,Luca Nardi,0.9612786111716491,1
+2025,R64,Jaume Munar,Fabian Marozsan,0.4967995432401494,0
+2025,R64,Lorenzo Sonego,Nikoloz Basilashvili,0.5460044632523418,1
+2025,R64,Carlos Alcaraz,Oliver Tarvet,0.9812817995708589,1
+2025,R128,Marin Cilic,Raphael Collignon,0.8925573288308531,1
+2025,R128,Gabriel Diallo,Daniel Altmaier,0.7891031954076354,1
+2025,R128,Joao Fonseca,Jacob Fearnley,0.45822022367534304,0
+2025,R128,Cristian Garin,Chris Rodesch,0.7715674067619329,1
+2025,R128,Billy Harris,Dusan Lajovic,0.5722958731436031,1
+2025,R128,Lloyd Harris,Zizou Bergs,0.4202571424292872,0
+2025,R128,Adrian Mannarino,Christopher O'Connell,0.6029183417689866,1
+2025,R128,Shintaro Mochizuki,Giulio Zeppieri,0.32573152733077104,0
+2025,R128,Cameron Norrie,Roberto Bautista Agut,0.41070265692997027,0
+2025,R128,Ethan Quinn,Henry Searle,0.7503384977993798,1
+2025,R128,Sebastian Ofner,Hamad Medjedovic,0.43312954495968065,0
+2025,R128,Oliver Tarvet,Leandro Riedi,0.43273748691814434,0
+2025,R128,Jordan Thompson,Vit Kopriva,0.7229008984721585,1
+2025,R128,Learner Tien,Nishesh Basavareddy,0.7797953007768467,1
+2025,R128,Botic van de Zandschulp,Matteo Arnaldi,0.4975690028635545,0
+2025,R64,Jannik Sinner,Aleksandar Vukic,0.9531071109951113,1
+2025,R128,Jack Draper,Sebastian Baez,0.9117921416590541,1
+2025,R128,Taylor Fritz,Giovanni Mpetshi Perricard,0.844368679176817,1
+2025,R128,Nicolas Jarry,Holger Rune,0.22299690525003338,0
+2025,R128,Benjamin Bonzi,Daniil Medvedev,0.11089709867601802,0
+2025,R128,Frances Tiafoe,Elmer Moller,0.724294130560695,1
+2025,R128,Andrey Rublev,Laslo Djere,0.7389684770713133,1
+2025,R128,Nuno Borges,Francisco Cerundolo,0.31359701088065894,0
+2025,R128,Karen Khachanov,Mackenzie McDonald,0.6862482520229827,1
+2025,R128,Arthur Fery,Alexei Popyrin,0.19523594141354067,0
+2025,R128,Jiri Lehecka,Hugo Dellien,0.9274731226307811,1
+2025,R128,Flavio Cobolli,Beibit Zhukayev,0.6813630068028017,1
+2025,R128,Felix Auger-Aliassime,James Duckworth,0.7685741083173028,1
+2025,R128,Alejandro Davidovich Fokina,Brandon Holt,0.7942152118882022,1
+2025,R64,Pedro Martinez,Mariano Navone,0.3605035932093142,0
+2025,R64,Miomir Kecmanovic,Jesper de Jong,0.6009299381532726,1
+2025,R128,Valentin Royer,Stefanos Tsitsipas,0.1387016083210455,0
+2025,R64,Brandon Nakashima,Reilly Opelka,0.5891977352767309,1
+2025,R64,Flavio Cobolli,Jack Pinnington Jones,0.8398950787260572,1
+2025,R64,August Holmgren,Tomas Machac,0.26451174635647917,0
+2025,R64,Grigor Dimitrov,Corentin Moutet,0.6646438234699916,1
+2025,R64,Jakub Mensik,Marcos Giron,0.4320523090667007,0
+2025,R64,Sebastian Ofner,Tommy Paul,0.1784251916258213,0
+2025,R64,Alex de Minaur,Arthur Cazaux,0.8635175634044276,1
+2025,R64,Ben Shelton,Rinky Hijikata,0.7385963540595796,1
+2025,R64,Novak Djokovic,Daniel Evans,0.9564997214919599,1
+2025,R128,Arthur Rinderknech,Alexander Zverev,0.16743434341170765,0
+2025,R32,Jannik Sinner,Pedro Martinez,0.9691820401392469,1
+2025,R64,Jordan Thompson,Benjamin Bonzi,0.7337154753343956,1
+2025,R64,Arthur Rinderknech,Cristian Garin,0.46424538842448276,0
+2025,R64,Adrian Mannarino,Valentin Royer,0.764717697012916,1
+2025,R64,Kamil Majchrzak,Ethan Quinn,0.46553766312759276,0
+2025,R128,Jan-Lennard Struff,Filip Misolic,0.6034522691399774,1
+2025,R64,Joao Fonseca,Jenson Brooksby,0.3375365573172028,0
+2025,R64,Luciano Darderi,Arthur Fery,0.678413546071775,1
+2025,R64,Nuno Borges,Billy Harris,0.4954057924866297,0
+2025,R64,Alejandro Davidovich Fokina,Botic van de Zandschulp,0.6434138814753049,1
+2025,R64,Jan-Lennard Struff,Felix Auger-Aliassime,0.4173950814330118,0
+2025,R64,Mattia Bellucci,Jiri Lehecka,0.11158504391701228,0
+2025,R64,Karen Khachanov,Shintaro Mochizuki,0.9225697464866508,1
+2025,R64,Andrey Rublev,Lloyd Harris,0.7599414049796435,1
+2025,R64,Cameron Norrie,Frances Tiafoe,0.46921558842720285,0
+2025,R128,Luciano Darderi,Roman Safiullin,0.39808803961899364,0
+2025,R16,Jannik Sinner,Grigor Dimitrov,0.8146388886689312,1
+2025,R32,Jordan Thompson,Luciano Darderi,0.7458205291517203,1
+2025,R32,Cameron Norrie,Mattia Bellucci,0.7389321861219198,1
+2025,SF,Carlos Alcaraz,Taylor Fritz,0.7967970263209211,1
+2025,R32,Novak Djokovic,Miomir Kecmanovic,0.9601722154132389,1
+2025,R16,Novak Djokovic,Alex de Minaur,0.8332303631712173,1
+2025,QF,Taylor Fritz,Karen Khachanov,0.6871100225788894,1
+2025,R32,Karen Khachanov,Nuno Borges,0.782766207051847,1
+2025,R16,Flavio Cobolli,Marin Cilic,0.3239885781413112,0
+2025,R16,Ben Shelton,Lorenzo Sonego,0.5522074361082949,1
+2025,R64,Taylor Fritz,Gabriel Diallo,0.6731988718780246,1
+2025,R16,Karen Khachanov,Kamil Majchrzak,0.7690320453513224,1
+2025,R16,Cameron Norrie,Nicolas Jarry,0.6336865692320686,1
+2025,QF,Jannik Sinner,Ben Shelton,0.9037952622182022,1
+2025,QF,Novak Djokovic,Flavio Cobolli,0.9307596946188557,1
+2025,QF,Carlos Alcaraz,Cameron Norrie,0.9328106552301152,1
+2025,R64,Nicolas Jarry,Learner Tien,0.43478406709655437,0
+2025,R16,Carlos Alcaraz,Andrey Rublev,0.9012352109708807,1
+2025,R16,Taylor Fritz,Jordan Thompson,0.7606238198186946,1
+2025,R32,Lorenzo Sonego,Brandon Nakashima,0.3878584910990244,0
+2025,SF,Jannik Sinner,Novak Djokovic,0.3824170048413806,0
+2025,F,Jannik Sinner,Carlos Alcaraz,0.3762551453556017,0
+2025,R64,Marin Cilic,Jack Draper,0.37204567839985775,0
+2025,R32,Ben Shelton,Marton Fucsovics,0.43053837361908226,0
+2025,R32,Alex de Minaur,August Holmgren,0.8861301470600307,1
+2025,R32,Flavio Cobolli,Jakub Mensik,0.5000666079307287,1
+2025,R32,Grigor Dimitrov,Sebastian Ofner,0.7567845282791131,1
+2025,R32,Andrey Rublev,Adrian Mannarino,0.6717107558200606,1
+2025,R32,Marin Cilic,Jaume Munar,0.80261836373095,1
+2025,R32,Carlos Alcaraz,Jan-Lennard Struff,0.9370058919721521,1
+2025,R32,Taylor Fritz,Alejandro Davidovich Fokina,0.7752728723741942,1
+2025,R32,Nicolas Jarry,Joao Fonseca,0.4236527204796659,0
+2025,R64,Marton Fucsovics,Gael Monfils,0.4930955550085914,0
+2025,R32,Kamil Majchrzak,Arthur Rinderknech,0.40693957788700635,0
