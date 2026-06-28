@@ -36,8 +36,12 @@ def reconstruct_draw(matches, year, blend_w=0.5, overall_elo=None, grass_elo=Non
     if len(wim) == 0:
         return None, None
 
-    # Get R1 matches - could be R128 (128 draw) or R64 (64 draw)
-    r1 = wim[wim['round'].isin(['R128', 'R64'])].copy()
+    # Get R1 matches - use R128 for 128-player draw, R64 for 64-player draw
+    # Critical: must not mix rounds or bracket reconstruction is corrupted
+    if wim['round'].eq('R128').any():
+        r1 = wim[wim['round'] == 'R128'].copy()
+    else:
+        r1 = wim[wim['round'] == 'R64'].copy()
 
     if len(r1) == 0:
         return None, None
@@ -136,7 +140,7 @@ def simulate_draw(bracket, ratings, n_sims=50000, seed=42):
             'p_qf': (max_round[idx] >= 4).mean(),
             'p_sf': (max_round[idx] >= 5).mean(),
             'p_f':  (max_round[idx] >= 6).mean(),
-            'p_w':  (max_round[idx] >= 7).mean(),
+            'p_w':  (max_round[idx] >= n_rounds).mean(),
         }
 
     return probs
@@ -225,7 +229,7 @@ def run_calibration(matches, test_years=None, blend_w=0.5, n_sims=50000):
             continue
 
         # Simulate tournament
-        probs = simulate_draw(bracket, player_ratings, n_sims=n_sims)
+        probs = simulate_draw(bracket, player_ratings, n_sims=n_sims, seed=year)
 
         # Get actual outcomes
         outcomes = get_actual_outcomes(matches, year)
@@ -281,9 +285,10 @@ def plot_calibration(df, output_path='outputs/tournament_calibration.png'):
     for i, (pred_col, actual_col, label) in enumerate(rounds):
         ax = axes[i]
 
-        # Bin by predicted probability
-        df['bin'] = pd.cut(df[pred_col], bins=10)
-        grouped = df.groupby('bin', observed=True).agg(
+        # Bin by predicted probability (use a copy to avoid mutating caller's df)
+        plot_df = df.copy()
+        plot_df['bin'] = pd.cut(plot_df[pred_col], bins=10)
+        grouped = plot_df.groupby('bin', observed=True).agg(
             mean_pred=(pred_col, 'mean'),
             mean_actual=(actual_col, 'mean'),
             count=(actual_col, 'count')
@@ -357,7 +362,7 @@ if __name__ == '__main__':
     matches['tourney_date'] = pd.to_datetime(matches['tourney_date'])
 
     print("\nRunning tournament calibration (this takes ~10 minutes)...")
-    df = run_calibration(matches, n_sims=10000)  # 10k sims for speed
+    df = run_calibration(matches, n_sims=10000, blend_w=0.35)  # 10k sims for speed
 
     print_calibration_summary(df)
     plot_calibration(df)

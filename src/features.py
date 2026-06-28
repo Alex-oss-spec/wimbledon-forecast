@@ -118,7 +118,7 @@ def recent_grass_form(matches, player_id, cutoff_date, months=12):
     """
     matches = matches.copy()
     matches['tourney_date'] = pd.to_datetime(matches['tourney_date'])
-    window_start = cutoff_date - pd.Timedelta(days=months * 30)
+    window_start = cutoff_date - pd.DateOffset(months=months)
 
     # Grass matches in the window before cutoff
     window = matches[

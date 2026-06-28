@@ -144,7 +144,7 @@ def print_results(results, top_n=32):
 if __name__ == '__main__':
     DATA_DIR = 'data/raw/tennis_atp'
     DRAW_PATH = 'data/processed/draw_2026.csv'
-    BLEND_W = 0.35
+    BLEND_W = 0.4
     N_SIMS = 50000
 
     # Train Elo on all matches up to 26 June 2026

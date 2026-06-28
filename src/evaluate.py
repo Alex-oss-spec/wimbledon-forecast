@@ -106,7 +106,7 @@ def evaluate(results):
 
     print(f"\n--- Backtest Results (Wimbledon 2010-2025) ---")
     print(f"Matches evaluated: {len(results)}")
-    print(f"Accuracy:    {acc:.3f}  (baseline: 0.500)")
+    print(f"Accuracy:    {acc:.3f}  (baseline: ~0.500 for coin-flip model)")
     print(f"Log loss:    {ll:.4f}  (baseline: {ll_baseline:.4f})")
     print(f"Brier score: {bs:.4f}  (baseline: {bs_baseline:.4f})")
 
@@ -255,17 +255,30 @@ if __name__ == '__main__':
     os.makedirs('outputs', exist_ok=True)
     results.to_csv('outputs/backtest_results.csv', index=False)
 
-    print("\nRunning blend weight grid search...")
+    print("\nRunning blend weight grid search (training years 2010-2019 only)...")
     print("(Testing 21 values of w from 0.0 to 1.0)")
-    blend_results = blend_weight_search(matches, test_years=range(2010, 2026))
+    blend_results = blend_weight_search(matches, test_years=range(2010, 2020))
 
-    print("\n--- Blend Weight Results ---")
+    print("\n--- Blend Weight Results (trained on 2010-2019) ---")
     print(blend_results.to_string(index=False))
 
     best = blend_results.loc[blend_results['log_loss'].idxmin()]
-    print(f"\nOptimal blend weight: w={best['blend_w']:.2f}")
-    print(f"Best log loss: {best['log_loss']:.4f}")
-    print(f"Best accuracy: {best['accuracy']:.3f}")
+    optimal_w = best['blend_w']
+    print(f"\nOptimal blend weight (from training years): w={optimal_w:.2f}")
+    print(f"Training log loss: {best['log_loss']:.4f}")
+
+    # Now report held-out performance at the optimal w
+    print(f"\nEvaluating held-out years (2021-2025) at optimal w={optimal_w:.2f}...")
+    held_out = backtest_wimbledon(matches, test_years=[2021,2022,2023,2024,2025], blend_w=optimal_w)
+    y_true = np.ones(len(held_out))
+    y_pred = np.clip(held_out['prob_winner'].values, 0.001, 0.999)
+    from sklearn.metrics import log_loss, brier_score_loss
+    ll_ho = log_loss(y_true, y_pred, labels=[0,1])
+    bs_ho = brier_score_loss(y_true, y_pred)
+    acc_ho = held_out['correct'].mean()
+    print(f"Held-out log loss: {ll_ho:.4f}")
+    print(f"Held-out Brier:    {bs_ho:.4f}")
+    print(f"Held-out accuracy: {acc_ho:.3f}")
 
     plot_blend_search(blend_results)
     blend_results.to_csv('outputs/blend_weight_search.csv', index=False)
